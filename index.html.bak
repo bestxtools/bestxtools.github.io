@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>好工具周刊 | bestxtools.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="好工具周刊" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Curated Best Free Online Tools. https://bestxtools.github.io/ https://bestxtools.vercel.app/ https://besttools.vercel.app/" />
+<meta property="og:description" content="Curated Best Free Online Tools. https://bestxtools.github.io/ https://bestxtools.vercel.app/ https://besttools.vercel.app/" />
+<link rel="canonical" href="https://bestxtools.github.io/" />
+<meta property="og:url" content="https://bestxtools.github.io/" />
+<meta property="og:site_name" content="bestxtools.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="好工具周刊" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Curated Best Free Online Tools. https://bestxtools.github.io/ https://bestxtools.vercel.app/ https://besttools.vercel.app/","headline":"好工具周刊","name":"bestxtools.github.io","url":"https://bestxtools.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1/new.min.css">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://bestxtools.github.io/">bestxtools.github.io</a></h1>
+      
+
+      <h1 id="好工具周刊"><a href="https://github.com/bestxtools/weekly-cn">好工具周刊</a></h1>
+
+<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。</p>
+
+<p>好工具周刊同时发布到三个平台，订阅方式提供多种选择。</p>
+
+<ul>
+  <li><a href="https://discuss-cn.bestxtools.com/t/weekly">BestXTools 社区（RSS）</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn">GitHub（Watch）</a></li>
+  <li><a href="https://bestxtools.zhubai.love/">竹白（邮箱，微信）</a></li>
+</ul>
+
+<p>欢迎交流，<a href="https://discuss-cn.bestxtools.com/d/8">投稿</a>，订阅。</p>
+
+<h2 id="目录">目录</h2>
+
+<ul>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md">好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md">好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-5.md">好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-4.md">好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-3.md">好工具周刊（第 3 期）: 优秀工具箱 🧰 集合, Poet.so, 艺术二维码生成器</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-2.md">好工具周刊（第 2 期）: Checkbox Painter, JSONT, 图床 i by Tikolu</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-1.md">好工具周刊（第 1 期）: Pika, Outline, Screenshot API</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-0.md">好工具周刊 : 发刊词</a></li>
+</ul>
+
+<h2 id="订阅方法">订阅方法</h2>
+
+<ul>
+  <li>
+    <p>GitHub Watch: 点击 <strong>Watch</strong> &gt; <strong>Custom</strong> &gt; <strong>Releases</strong> 订阅</p>
+  </li>
+  <li>
+    <p>RSS 订阅地址: <a href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions">https://discuss-cn.bestxtools.com/atom/t/weekly/discussions</a></p>
+  </li>
+  <li>
+    <p>邮箱: 访问 <a href="https://bestxtools.zhubai.love/">https://bestxtools.zhubai.love/</a>， 点击”订阅更新”</p>
+  </li>
+  <li>
+    <p>微信订阅:</p>
+  </li>
+</ul>
+
+<div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png" alt="微信订阅" /></a></div>
+
+<h1 id="优秀工具箱集合-"><a href="https://github.com/bestxtools/awesome-toolbox-chinese">优秀工具箱集合</a> <a href="https://awesome-toolbox-chinese.bestxtools.com/"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a></h1>
+
+<p>收集，推荐好用、优秀的工具箱。工具箱大全。</p>
+
+<p>欢迎<a href="https://github.com/bestxtools/awesome-toolbox-chinese/stargazers">点赞</a>，收藏，<a href="https://github.com/bestxtools/awesome-toolbox-chinese/issues">推荐</a>。</p>
+
+<h2 id="-在线工具箱">🧰 在线工具箱</h2>
+
+<blockquote>
+  <p>工具箱网站排名说明：下面所列网站按域名字母顺序排序<br />
+每个网站的 featured tools 最多列 5 个</p>
+</blockquote>
+
+<ul>
+  <li>
+    <p><a href="https://123apps.com/cn/">123apps.com</a> - Web Apps by 123apps - 编辑、转换、创建</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://online-video-cutter.com/cn/video-editor">在线视频编辑器</a>, <a href="https://mp3cut.net/cn/">修剪音频</a>, <a href="https://pdf.io/cn/doc2pdf/">Convert Word to PDF</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.67tool.com/">67tool.com</a> - 即时工具-致力打造即用即走型在线工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.67tool.com/video/edit?type=cut">视频剪切</a>, <a href="https://www.67tool.com/images/imgCompress">图片压缩</a>, <a href="https://www.67tool.com/images/enlarge">图片放大</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://atool.vip/">atool.vip</a> - 在线工具 - VIP</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://atool.vip/appicon/">批量生成多尺寸 APP Icon</a>, <a href="https://atool.vip/base64">图片 Base64 编码</a>, <a href="https://atool.vip/colorpicker">在线颜色选择器 / 转换器</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="http://www.atoolbox.net/">atoolbox.net</a> - 一个工具箱 - 好用的在线工具都在这里！</p>
+
+    <ul>
+      <li>Featured tools: <a href="http://www.atoolbox.net/Tool.php?Id=1021">信用卡分期计算器</a>, <a href="http://www.atoolbox.net/Tool.php?Id=1035">像素风格头像生成器</a>, <a href="http://www.atoolbox.net/Tool.php?Id=1025">翅膀昵称生成器</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://bazinga.tools/">bazinga.tools</a> - Bazinga Tools - The All-in-One Toolbox for Developers (<a href="https://github.com/luin/bazinga">Open source</a>)</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://bazinga.tools/html">HTML Formatter</a>, <a href="https://bazinga.tools/json-to-csv">JSON to CSV Converter</a>, <a href="https://bazinga.tools/markdown-table-generator">Markdown Table Generator</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.browserling.com/tools">browserling.com</a> - Web Developer Tools - Programmer Tools - Online - Browserling (🇬🇧)</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://onlinejsontools.com/convert-json-to-yaml">json to yaml converter</a>, <a href="https://onlineyamltools.com/validate-yaml">yaml validator</a>, <a href="https://onlinecsvtools.com/convert-csv-to-json">csv to json converter</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://devtool.tech/">devtool.tech</a> - 开发者武器库 · 属于程序员的工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://cv.devtool.tech/app">Markdown 一纸简历</a>, <a href="https://markdown.devtool.tech/app">Markdown 编辑器</a>, <a href="https://devtool.tech/gallery">微图床 - 个人专属 Github 图床</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.dute.org/">dute.org</a> - 专注于体验的免费在线工具 - 独特工具箱 - dute.org</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.dute.org/image-clip">九宫切图工具</a>, <a href="https://www.dute.org/paypal-service-charge">Paypal 手续费计算器</a>, <a href="https://www.dute.org/douyin-style-text">抖音风格文字生成器</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.gjk.cn/">gjk.cn</a> - 工具库 - 在线工具_全能工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.gjk.cn/soul">码农毒鸡汤</a>, <a href="https://www.gjk.cn/jianfanti">中文简繁体转换</a>, <a href="https://www.gjk.cn/katong">卡通头像制作</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.iamwawa.cn/">iamwawa.cn</a> - 蛙蛙工具 - 便捷的在线工具网站</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.iamwawa.cn/daxiaoxie.html">英文字母大小写转换</a>, <a href="https://www.iamwawa.cn/quchong.html">文本去重工具</a>, <a href="https://www.iamwawa.cn/renminbi.html">人民币大写转换器</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.idcd.com/">idcd.com</a> - 实用在线工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://whois.idcd.com/">whois 查询</a>, <a href="https://www.idcd.com/tool/format/sql">SQL 格式化</a>, <a href="https://chengyu.idcd.com/">成语查询</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.json.cn/">json.cn</a> - JSON 在线解析及格式化验证 - JSON.cn</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.json.cn/json/jsononline.html">JSON 在线解析</a>, <a href="https://www.json.cn/json/jsonzip.html">JSON 压缩转义</a>, <a href="https://www.json.cn/json/json2java.html">JSON 生成 JAVA 实体</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.lddgo.net/">lddgo.net</a> - 在线工具大全</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.lddgo.net/string/regex">Java 正则表达式测试</a>, <a href="https://www.lddgo.net/encrypt/crc">CRC 在线计算</a>, <a href="https://www.lddgo.net/string/randomnumber">在线随机数生成器</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://oktools.net/">oktools.net</a> - 在线工具 - OKTools</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://oktools.net/json">JSON 格式化</a>, <a href="https://oktools.net/timestamp">Unix 时间戳</a>, <a href="https://oktools.net/image2base64">图片 Base64 编码</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.qtool.net/">qtool.net</a> - 在线工具-QTOOl 工具大家常用的工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.qtool.net/imgmatting">在线抠图，在线删除图片背景</a>, <a href="https://www.qtool.net/tpys">图片压缩</a>, <a href="https://www.qtool.net/picstitching">在线拼图</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://smalldev.tools/">smalldev.tools</a> - Handy developer tools with a delightful interface - SmallDevTools (🇬🇧)</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://smalldev.tools/share-bin">Code Share Bin</a>, <a href="https://smalldev.tools/json-decoder-online">JSON Decoder</a>, <a href="https://smalldev.tools/json-formatter-online">JSON Formatter</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://smallseotools.com/">smallseotools.com</a> - 100% Free SEO Tools - SmallSEOTools.com (🇬🇧)</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://smallseotools.com/grammar-checker/">英语语法检查</a>, <a href="https://smallseotools.com/keywords-suggestions-tool/">关键字推荐</a>, <a href="https://smallseotools.com/keyword-position/">关键字排名</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.sojson.com/">sojson.com</a> - JSON 在线 | JSON 解析格式化—SO JSON 在线工具</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.sojson.com/">JSON 解析</a>, <a href="https://www.sojson.com/editor.html">JSON 视图</a>, <a href="https://www.sojson.com/jsonfmt.html">JSON 着色</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://sotool.net/">sotool.net</a> - so 工具</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://sotool.net/watermark">证件加水印</a>, <a href="https://sotool.net/time.html">时间戳转换工具</a>, <a href="https://sotool.net/color">颜色拾取工具</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://t.xxgeek.com/">t.xxgeek.com</a> - 极客工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://t.xxgeek.com/tools/eatsm/">今天吃什么？</a>, <a href="https://t.xxgeek.com/tools/rank">极客域名权重查询</a>, <a href="https://t.xxgeek.com/tools/seoauto">SEO 自动工具</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tableconvert.com/zh-CN/">tableconvert.com</a> - Table Convert Online 在线表格转换工具 - 让表格转换变得更容易</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tableconvert.com/zh-CN/csv-to-markdown">CSV 转换为 Markdown 表格</a>, <a href="https://tableconvert.com/zh-CN/markdown-to-html">Markdown 表格 转换为 HTML 表格</a>, <a href="https://tableconvert.com/zh-CN/excel-to-markdown">Excel 转换为 Markdown 表格</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tinywow.com/">tinywow.com</a> - Free PDF, Video, Image &amp; Other Online Tools - TinyWow (🇬🇧)</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tinywow.com/pdf/to-jpg">PDF to JPG</a>, <a href="https://tinywow.com/pdf/merge">Merge PDF</a>, <a href="https://tinywow.com/pdf/split">Split PDF</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tool.chinaz.com/">tool.chinaz.com</a> - 站长工具 - 站长之家</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://whois.chinaz.com/">Whois 查询</a>, <a href="https://seo.chinaz.com/">SEO 综合查询</a>, <a href="https://outlink.chinaz.com/">反向链接</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tool.geekyes.com/">tool.geekyes.com</a> - 极客工具网-极客角落在线工具大全！</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tool.geekyes.com/json/">Json 格式化</a>, <a href="https://tool.geekyes.com/ip/">IP 地址归属地查询</a>, <a href="https://tool.geekyes.com/checkweixin/">微信域名检测工具</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tool.lu/">tool.lu</a> - 在线工具 - 你的工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tool.lu/ocr/">图片转文字、OCR</a>, <a href="https://tool.lu/js/">在线 js 美化、解压缩、混淆</a>, <a href="https://tool.lu/css/">在线 css 美化、格式化、压缩</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="http://tool.mkblog.cn/">tool.mkblog.cn</a> - 孟坤工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="http://tool.mkblog.cn/logoly/">Pornhub 和 YouTube 风格 LOGO 生产器</a>, <a href="http://tool.mkblog.cn/qrbtf/">艺术二维码生成器</a>, <a href="http://tool.mkblog.cn/relationship/">中国家庭称谓计算器</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.tooleyes.com/">tooleyes.com</a> - 在线工具大全，用完即走，触手可及_tooleyes 工具网</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.tooleyes.com/app/gif_maker.html">gif 制作</a>, <a href="https://www.tooleyes.com/app/id_photo.html">证件照换底色</a>, <a href="https://www.tooleyes.com/app/bdtts.html">文字转换语音</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.toolfk.com/">toolfk.com</a> - 最强工具人在线工具箱 - TOOLFK 工具网</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.toolfk.com/tools/online-website-include.html">网站收录工具</a>, <a href="https://www.toolfk.com/tools/convert-htaccess2nginx.html">在线 htaccess 转 Nginx</a>, <a href="https://www.toolfk.com/tools/online-safe-domain.html">在线网站拦截检测</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://toolight.cn/">toolight.cn</a> - 偷懒工具 - 努力做更好用的在线工具</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://toolight.cn/common/calendar">万年历</a>, <a href="https://toolight.cn/common/idcard">身份证信息</a>, <a href="https://toolight.cn/common/unzip">在线解压缩</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.toolnb.com/">toolnb.com</a> - 爱资料工具-好用的在线工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.toolnb.com/domaininfo/baidu.com.html">域名 Whois 详细信息查询</a>, <a href="https://www.toolnb.com/alexa/baidu.com.html">Alexa 历史排名查询</a>, <a href="https://www.toolnb.com/beiqiang/index.html">域名被墙查询</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tools.fun/">tools.fun</a> - 在线工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tools.fun/regexp.html">正则表达式测试</a>, <a href="http://tools.fun/websocket.html">Websocket 测试</a>, <a href="https://tools.fun/timestamp.html">时间戳转换</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tools.ijkxs.com/">tools.ijkxs.com</a> - 即刻工具箱 | 打造方便、快捷、免费的在线工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tools.ijkxs.com/tools/internetindustrygen">互联网黑话生成器</a>, <a href="https://tools.ijkxs.com/tools/shenlunshengchengqi">申论生成器</a>, <a href="https://tools.ijkxs.com/tools/wxpyqjtsc">朋友圈转发截图生成工具</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tools.miku.ac/">tools.miku.ac</a> - MikuTools - 一个轻量的工具集合</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tools.miku.ac/zero_width_space_encrypt/">零宽字符隐藏加密</a>, <a href="https://tools.miku.ac/curlconverter/">CURL 转编程语言</a>, <a href="https://tools.miku.ac/any_rule/">正则大全</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tools.pdf24.org/zh/">tools.pdf24.org</a> - PDF24 Tools: 免费且易于使用的在线 PDF 工具</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tools.pdf24.org/zh/merge-pdf">PDF 合并</a>,<a href="https://tools.pdf24.org/zh/split-pdf">分割 PDF</a>,<a href="https://tools.pdf24.org/zh/images-to-pdf">图片转 PDF</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tools.pet/">tools.pet</a> - Tools.Pet 在线工具 程序员工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tools.pet/">字符长度统计</a>, <a href="https://tools.pet/other/urlcode">Url 在线转码/解码</a>, <a href="https://tools.pet/json/json2go">JSON 转 Golang 结构体</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tools.quickso.cn/">tools.quickso.cn</a> - Ctool 程序开发常用工具</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tools.quickso.cn/tool.html#/tool/hash">哈希(hash)</a>, <a href="https://tools.quickso.cn/tool.html#/tool/encrypt">加密/解密</a>, <a href="https://tools.quickso.cn/tool.html#/tool/base64">BASE64 编码</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tools.yuanfen.net/">tools.yuanfen.net</a> - 猿奋工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tools.yuanfen.net/financial-freedom">财富自由计算器</a>, <a href="https://tools.yuanfen.net/password">随机密码生成</a>, <a href="https://tools.yuanfen.net/entity">HTML 实体转换</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://tooltt.com/">tooltt.com</a> - 我的工具-程序员编程开发必备</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://tooltt.com/csv2htmltable/">在线 CSV 转 html,table 代码</a>, <a href="https://tooltt.com/csv2json/">在线 CSV 转 JSON</a>, <a href="https://tooltt.com/xmlxpath/">在线 XPath 解析 XML 测试工具</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://utils.fun/">utils.fun</a> - 油条工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://utils.fun/generate/rand-password.html">随机密码生成</a>, <a href="https://utils.fun/generate/qrcode.html">二维码生成</a>, <a href="https://utils.fun/generate/watermark.html">图片离线加水印</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.wanderplan.net/">wanderplan.net</a> - 漫步工具 | 在线工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.wanderplan.net/tools/word-count">字数统计</a>, <a href="https://www.wanderplan.net/tools/jian-fan">简繁体转换</a>, <a href="https://www.wanderplan.net/tools/template">模板内容生成</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.zxgj.cn/">zxgj.cn</a> - 在线工具网 - 工作生活好帮手</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.zxgj.cn/g/jiugongge">九宫格切图</a>, <a href="https://www.zxgj.cn/g/kuaidi">快递单号查询</a>, <a href="https://www.zxgj.cn/g/lixi">利息计算器</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>Copyright (c) 2022 <a href="https://www.pipecraft.net">Pipecraft</a>. Licensed under the <a href="https://github.com/bestxtools/weekly-cn/blob/main/LICENSE">CC0-1.0 License</a>.</p>
+
+<h2 id="_">&gt;_</h2>
+
+<p><a href="https://www.pipecraft.net"><img src="https://img.shields.io/badge/site-pipecraft-brightgreen" alt="Pipecraft" /></a>
+<a href="https://pzwd.net"><img src="https://img.shields.io/badge/site-pzwd-brightgreen" alt="PZWD" /></a>
+<a href="https://www.bestxtools.com"><img src="https://img.shields.io/badge/site-bestxtools-brightgreen" alt="BestXTools" /></a></p>
+
+
+      
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. <a href="https://github.com/bestxtools/bestxtools.github.io/edit/main/README.md">Improve this page</a>.
+      </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
