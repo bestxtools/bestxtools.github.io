@@ -10,7 +10,9 @@
 
 欢迎交流，[投稿](https://discuss-cn.bestxtools.com/d/8)，订阅。
 
-| 最新　 \| 　[最热](https://discuss-cn.bestxtools.com/t/weekly?sort=top)　 \| 　[最多人看](https://discuss-cn.bestxtools.com/t/weekly?sort=popular)                                                  |           |
+## 最新　 / 　[最热](https://discuss-cn.bestxtools.com/t/weekly?sort=top)　 / 　[最多人看](https://discuss-cn.bestxtools.com/t/weekly?sort=popular)
+
+| TITLE                                                                                                                                                                                               | DATE      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ip.dog 🐶, IconKitchen](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-11.md)       | 2022/5/5  |
 | [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-10.md) | 2022/4/28 |
