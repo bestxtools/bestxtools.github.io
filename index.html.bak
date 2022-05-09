@@ -7,7 +7,7 @@
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>好工具周刊 | bestxtools.github.io</title>
-<meta name="generator" content="Jekyll v3.9.0" />
+<meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="好工具周刊" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Curated Best Free Online Tools. https://bestxtools.github.io/ https://bestxtools.vercel.app/ https://besttools.vercel.app/" />
@@ -58,6 +58,10 @@
 <h2 id="目录">目录</h2>
 
 <ul>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-11.md">好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ip.dog 🐶, IconKitchen</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-10.md">好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md">好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater</a></li>
+  <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md">好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot</a></li>
   <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md">好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh</a></li>
   <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md">好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner</a></li>
   <li><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-5.md">好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!</a></li>
@@ -140,7 +144,14 @@
     <p><a href="https://www.browserling.com/tools">browserling.com</a> - Web Developer Tools - Programmer Tools - Online - Browserling (🇬🇧)</p>
 
     <ul>
-      <li>Featured tools: <a href="https://onlinejsontools.com/convert-json-to-yaml">json to yaml converter</a>, <a href="https://onlineyamltools.com/validate-yaml">yaml validator</a>, <a href="https://onlinecsvtools.com/convert-csv-to-json">csv to json converter</a></li>
+      <li>Featured tools: <a href="https://onlinejsontools.com/convert-json-to-yaml">json to yaml converter</a>, <a href="https://onlineyamltools.com/validate-yaml">yaml validator</a>, <a href="https://onlinecsvtools.com/convert-csv-to-json">csv to json converter</a>, <a href="https://onlineunicodetools.com/normalize-unicode-text">unicode text normalizer</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://ctfever.uniiem.com/">ctfever.uniiem.com</a> - CTFever Toolkit by uniiem</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://ctfever.uniiem.com/tools/rot-series">ROT-13 编码</a>, <a href="https://ctfever.uniiem.com/tools/morse-code">摩尔斯码/摩斯密码</a>, <a href="https://ctfever.uniiem.com/tools/caesar-cipher">凯撒加密</a></li>
     </ul>
   </li>
   <li>
@@ -162,6 +173,27 @@
 
     <ul>
       <li>Featured tools: <a href="https://www.gjk.cn/soul">码农毒鸡汤</a>, <a href="https://www.gjk.cn/jianfanti">中文简繁体转换</a>, <a href="https://www.gjk.cn/katong">卡通头像制作</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.gluee.com/tools/">gluee.com</a> - Gluee’s tool suite for webmasters and developers (🇬🇧)</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://www.punycoder.com/">Punycode converter</a>, <a href="https://www.htmlwasher.com/">HTML cleanup tool</a>, <a href="https://www.htmlcorrector.com/">HTML corrector</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://goonlinetools.com/">goonlinetools.com</a> - GoOnlineTools.com - 100% Free Online Tools Collection (🇬🇧)</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://goonlinetools.com/random-password-generator/">Random Password Generator</a>, <a href="https://goonlinetools.com/tiktok-style-text-maker/">Tiktok style text maker</a>, <a href="https://goonlinetools.com/random-paragraph-generator/">Random Paragraph Generator</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="http://www.hiencode.com/">hiencode.com</a> - CTF 在线工具 - CTF 工具|CTF 编码|CTF 密码学|CTF 加解密|程序员工具|在线编解码</p>
+
+    <ul>
+      <li>Featured tools: <a href="http://www.hiencode.com/morse.html">莫尔斯电码</a>, <a href="http://www.hiencode.com/caes.html">AES 加解密</a>, <a href="http://www.hiencode.com/cdes.html">DES 加解密</a></li>
     </ul>
   </li>
   <li>
@@ -197,6 +229,13 @@
 
     <ul>
       <li>Featured tools: <a href="https://oktools.net/json">JSON 格式化</a>, <a href="https://oktools.net/timestamp">Unix 时间戳</a>, <a href="https://oktools.net/image2base64">图片 Base64 编码</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://cn.piliapp.com/">piliapp.com</a> - 工具邦 - PiliApp</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://cn.piliapp.com/random/lots/">随机抽签器</a>, <a href="https://cn.piliapp.com/random/coin/">抛硬币</a>, <a href="https://cn.piliapp.com/random/wheel/">轮盘</a></li>
     </ul>
   </li>
   <li>
@@ -295,6 +334,13 @@
 
     <ul>
       <li>Featured tools: <a href="https://www.toolfk.com/tools/online-website-include.html">网站收录工具</a>, <a href="https://www.toolfk.com/tools/convert-htaccess2nginx.html">在线 htaccess 转 Nginx</a>, <a href="https://www.toolfk.com/tools/online-safe-domain.html">在线网站拦截检测</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://toolgg.com/">toolgg.com</a> - 我的工具箱</p>
+
+    <ul>
+      <li>Featured tools: <a href="https://toolgg.com/css-minifier.html">在线 CSS 压缩工具</a>, <a href="https://toolgg.com/css-beautifier.html">在线 CSS 美化格式化工具</a>, <a href="https://toolgg.com/csv-to-json.html">在线 CSV 转 JSON 工具</a></li>
     </ul>
   </li>
   <li>
