@@ -30,6 +30,7 @@
         width: 50%;
         height: 1px;
       }
+    
       .markdown-body table th {
         text-align: left;
       }
@@ -81,6 +82,10 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-12.md">好工具周刊（第 12 期）: Hoppscotch, Blob Animation, Svg Wave, Array Builder, WEBP 转 PNG 转换器, MBTI 十六型人格测试 - 16Personalities, SVG PORN</a></td>
+      <td>2022/5/12</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-11.md">好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ip.dog 🐶, IconKitchen</a></td>
       <td>2022/5/5</td>

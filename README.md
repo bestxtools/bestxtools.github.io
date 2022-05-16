@@ -2,37 +2,40 @@
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
-好工具周刊同时发布到三个平台，订阅方式提供多种选择。
+\- [ `2022/05/12` ] [好工具周刊（第 12 期）: Hoppscotch, Blob Animation, Svg Wave, Array Builder, WEBP 转 PNG 转换器, MBTI 十六型人格测试 - 16Personalities, SVG PORN](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-12.md)  
+\- [ `2022/05/05` ] [好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ip.dog 🐶, IconKitchen](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-11.md)  
+\- [ `2022/04/28` ] [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-10.md)  
+\- [ `2022/04/21` ] [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md)  
+\- [ `2022/04/14` ] [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md)  
+\- [ `2022/04/07` ] [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)  
+\- [ `2022/03/31` ] [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md)  
+\- [ `2022/03/24` ] [好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-5.md)  
+\- [ `2022/03/17` ] [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-4.md)  
+\- [ `2022/03/10` ] [好工具周刊（第 3 期）: 优秀工具箱 🧰 集合, Poet.so, 艺术二维码生成器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-3.md)  
+\- [ `2022/03/03` ] [好工具周刊（第 2 期）: Checkbox Painter, JSONT, 图床 i by Tikolu](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-2.md)  
+\- [ `2022/02/24` ] [好工具周刊（第 1 期）: Pika, Outline, Screenshot API](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-1.md)  
+\- [ `2022/02/17` ] [好工具周刊 : 发刊词](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-0.md)
 
-- [BestXTools 社区（RSS）](https://discuss-cn.bestxtools.com/t/weekly)
+## 关于
+
+好工具周刊同时发布到四个平台，订阅方式提供多种选择。
+
+- [BestXTools 社区](https://discuss-cn.bestxtools.com/t/weekly) ([RSS](https://discuss-cn.bestxtools.com/atom/t/weekly/discussions))
 - [GitHub（Watch）](https://github.com/bestxtools/weekly-cn)
 - [竹白（邮箱，微信）](https://bestxtools.zhubai.love/)
+- [GeekNote](https://geeknote.net/bestxtools) ([RSS](https://geeknote.net/bestxtools/feed.atom))
 
 欢迎交流，[投稿](https://discuss-cn.bestxtools.com/d/8)，订阅。
-
-## 最新　 / 　[最热](https://discuss-cn.bestxtools.com/t/weekly?sort=top)　 / 　[最多人看](https://discuss-cn.bestxtools.com/t/weekly?sort=popular)
-
-| TITLE                                                                                                                                                                                                                  | DATE      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [好工具周刊（第 12 期）: Hoppscotch, Blob Animation, Svg Wave, Array Builder, WEBP 转 PNG 转换器, MBTI 十六型人格测试 - 16Personalities, SVG PORN](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-12.md) | 2022/5/12 |
-| [好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ip.dog 🐶, IconKitchen](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-11.md)                          | 2022/5/5  |
-| [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-10.md)                    | 2022/4/28 |
-| [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md)                                                      | 2022/4/21 |
-| [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md)                                                            | 2022/4/14 |
-| [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)                                                     | 2022/4/7  |
-| [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md)                                                            | 2022/3/31 |
-| [好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-5.md)                                             | 2022/3/24 |
-| [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-4.md)                                                                         | 2022/3/17 |
-| [好工具周刊（第 3 期）: 优秀工具箱 🧰 集合, Poet.so, 艺术二维码生成器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-3.md)                                                                              | 2022/3/10 |
-| [好工具周刊（第 2 期）: Checkbox Painter, JSONT, 图床 i by Tikolu](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-2.md)                                                                                  | 2022/3/3  |
-| [好工具周刊（第 1 期）: Pika, Outline, Screenshot API](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-1.md)                                                                                              | 2022/2/24 |
-| [好工具周刊 : 发刊词](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-0.md)                                                                                                                               | 2022/2/17 |
 
 ## 订阅方法
 
 - GitHub Watch: 点击 **Watch** > **Custom** > **Releases** 订阅
 
-- RSS 订阅地址: <https://discuss-cn.bestxtools.com/atom/t/weekly/discussions>
+- RSS 订阅地址:
+
+  - <https://discuss-cn.bestxtools.com/atom/t/weekly/discussions>
+  - <https://bestxtools.github.io/atom.xml>
+  - <https://geeknote.net/bestxtools/feed.atom>
 
 - 邮箱: 访问 <https://bestxtools.zhubai.love/>， 点击"订阅更新"
 
