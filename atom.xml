@@ -7,8 +7,205 @@
     <link href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="self" />
     <link href="https://discuss-cn.bestxtools.com/" />
     <id><![CDATA[https://discuss-cn.bestxtools.com/]]></id>
-    <updated>2022-05-19T01:34:48+00:00</updated>
+    <updated>2022-05-26T01:39:32+00:00</updated>
 
+        <entry>
+        <title><![CDATA[好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha, Q.Link, ASCII banners]]></title>
+        <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/39/1"/>
+        <id>https://discuss-cn.bestxtools.com/d/39/1</id>
+        <updated>2022-05-25T17:54:45+00:00</updated>
+        <content
+                    type="html"
+        ><![CDATA[<h1>好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha.io, Q.Link, ASCII text banners, ASCII Tree Generator, 网名大全, 翅膀符号网名生成器</h1>
+
+<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 <a href="https://www.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">BestXTools</a> 创作。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/37" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/39/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+
+<h2>🌈 在线工具</h2>
+
+<h3><a href="https://links.bestxtools.com/github-profile-page-creator.netlify.app/" rel="ugc noopener nofollow" target="_blank">GitHub Profile Page Creator</a></h3>
+
+<p>一款在线帮助你生成漂亮的 GitHub 个人主页的工具。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/github-profile-page-creator.netlify.app/" rel="ugc noopener nofollow" target="_blank">https://github-profile-page-creator.netlify.app/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/iamsatyajit05/GitHub-Profile-Page-Creator" rel="ugc noopener nofollow" target="_blank">https://github.com/iamsatyajit05/GitHub-Profile-Page-Creator</a></p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-44-07.png" title="" alt="GitHub Profile Page Creator"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-44-27.png" title="" alt="GitHub Profile Page Creator"></p>
+
+<h3><a href="https://links.bestxtools.com/www.codecaptcha.io/" rel="ugc noopener nofollow" target="_blank">CodeCaptcha.io</a></h3>
+
+<p>程序员专用链接分享工具，访问者必须完成随机的编程问题，才能访问你的秘密链接。分享程序员简历，活动邀请、资源分享等链接时可以派上用场。</p>
+
+<p>Demo: <a href="https://codecaptcha.io/a/Z0l2kQVCcQC8DSQz4BNK" rel="ugc noopener nofollow" target="_blank">https://codecaptcha.io/a/Z0l2kQVCcQC8DSQz4BNK</a></p>
+
+<p>链接: <a href="https://links.bestxtools.com/www.codecaptcha.io/" rel="ugc noopener nofollow" target="_blank">https://www.codecaptcha.io/</a></p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-38-40.png" title="" alt="CodeCaptcha.io"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-39-13.png" title="" alt="CodeCaptcha.io"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-40-52.png" title="" alt="CodeCaptcha.io"></p>
+
+<h3><a href="https://links.bestxtools.com/q-link.minung.dev/" rel="ugc noopener nofollow" target="_blank">Q.Link</a></h3>
+
+<p>一款链接分享工具，访问者必须答对你设定的问题才能访问你的秘密链接。分享活动邀请、资源分享等链接时可以派上用场。</p>
+
+<p>Demo: <a href="https://q-link.minung.dev/links/628df58ec8858fdddf873663" rel="ugc noopener nofollow" target="_blank">https://q-link.minung.dev/links/628df58ec8858fdddf873663</a></p>
+
+<p>链接: <a href="https://links.bestxtools.com/q-link.minung.dev/" rel="ugc noopener nofollow" target="_blank">https://q-link.minung.dev/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/hmu332233/q-link" rel="ugc noopener nofollow" target="_blank">https://github.com/hmu332233/q-link</a></p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-19-45.png" title="" alt="Q.Link"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-20-09.png" title="" alt="Q.Link"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-17-23-03.png" title="" alt="Q.Link"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/privnote.com/" rel="ugc noopener nofollow" target="_blank">Privnote - https://privnote.com/</a></li></ul>
+
+<h3><a href="https://links.bestxtools.com/manytools.org/hacker-tools/ascii-banner/" rel="ugc noopener nofollow" target="_blank">ASCII text banners</a></h3>
+
+<p>可以生成一些纯字符串的 banner，可以显示在终端，如果有自己的开源作品，可以使用看看。(<a href="https://links.bestxtools.com/hackertalk.net/posts/315155693657772032" rel="ugc noopener nofollow" target="_blank">@llvvi</a> 投稿)</p>
+
+<p>链接: <a href="https://links.bestxtools.com/manytools.org/hacker-tools/ascii-banner/" rel="ugc noopener nofollow" target="_blank">https://manytools.org/hacker-tools/ascii-banner/</a></p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-16-05-09.png" title="" alt="ASCII text banners"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-52-54.png" title="" alt="ASCII text banners"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/textkool.com/en/ascii-art-generator" rel="ugc noopener nofollow" target="_blank">ASCII text art generator - https://textkool.com/en/ascii-art-generator</a> (<a href="https://discuss-cn.bestxtools.com/d/25" rel="ugc noopener" target="_self">第 9 期</a>)</li>
+<li><a href="https://links.bestxtools.com/www.coolgenerator.com/ascii-text-generator" rel="ugc noopener nofollow" target="_blank">ASCII Text Generator - https://www.coolgenerator.com/ascii-text-generator</a></li>
+<li><a href="https://links.bestxtools.com/www.patorjk.com/software/taag/" rel="ugc noopener nofollow" target="_blank">Text to ASCII Art Generator (TAAG) - https://www.patorjk.com/software/taag/</a></li>
+<li><a href="https://links.bestxtools.com/texteditor.com/ascii-art/" rel="ugc noopener nofollow" target="_blank">Text to ASCII Art - https://texteditor.com/ascii-art/</a></li></ul>
+
+<h3><a href="https://links.bestxtools.com/ascii-tree-generator.com/" rel="ugc noopener nofollow" target="_blank">ASCII Tree Generator</a></h3>
+
+<p>一款可视化 ASCII Tree 树形目录生成器。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/ascii-tree-generator.com/" rel="ugc noopener nofollow" target="_blank">https://ascii-tree-generator.com/</a></p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-16-23-23.png" title="" alt="ASCII Tree Generator"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/tree.nathanfriend.io/" rel="ugc noopener nofollow" target="_blank">tree.nathanfriend.io</a> (<a href="https://discuss-cn.bestxtools.com/d/25" rel="ugc noopener" target="_self">第 9 期</a>)</li>
+<li><a href="https://links.bestxtools.com/devtool.tech/tree" rel="ugc noopener nofollow" target="_blank">Tree 树形目录可视化生成器 - https://devtool.tech/tree</a></li></ul>
+
+<h3><a href="https://links.bestxtools.com/http/www.shubang.net/wangming/" rel="ugc noopener nofollow" target="_blank">网名大全</a></h3>
+
+<p>多种类型网名可供选择。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/http/www.shubang.net/wangming/" rel="ugc noopener nofollow" target="_blank">http://www.shubang.net/wangming/</a></p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-23-58.png" title="" alt="网名大全"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-26-22.png" title="" alt="网名大全"><br>
+<img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-26-50.png" title="" alt="网名大全"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/www.qmsjmfb.com/" rel="ugc noopener nofollow" target="_blank">网名在线生成器 - https://www.qmsjmfb.com/</a> (<a href="https://discuss-cn.bestxtools.com/d/37" rel="ugc noopener" target="_self">第 13 期</a>)</li></ul>
+
+<h3><a href="https://links.bestxtools.com/http/www.shubang.net/tools/chibang.html" rel="ugc noopener nofollow" target="_blank">翅膀符号网名生成器</a></h3>
+
+<p>一款翅膀符号网名生成器。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/http/www.shubang.net/tools/chibang.html" rel="ugc noopener nofollow" target="_blank">http://www.shubang.net/tools/chibang.html</a></p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-23-12-35.png" title="" alt="翅膀符号网名生成器"></p>
+
+<hr>
+
+<h2>🧰 <a href="https://awesome-toolbox-chinese.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">在线工具箱大全</a></h2>
+
+<p>很多程序员都喜欢做一个工具箱。平时也会经常用到各种工具。这里收集了一些国内外好用的在线工具箱。</p>
+
+<p>链接:</p>
+
+<ul><li><a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">https://github.com/bestxtools/awesome-toolbox-chinese</a></li>
+<li><a href="https://xn--s28he6d.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">https://😎🧰.bestxtools.com/</a></li></ul>
+
+<p>欢迎<a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">点赞</a>，收藏，<a href="https://github.com/bestxtools/awesome-toolbox-chinese/issues" rel="ugc noopener nofollow" target="_blank">投稿</a>。</p>
+
+<hr>
+
+<h2>🌈 文章 &amp; 资源分享</h2>
+
+<ul><li><p><a href="https://links.bestxtools.com/imagen.research.google/" rel="ugc noopener nofollow" target="_blank">Imagen: Text-to-Image Diffusion Models</a><br>
+  <a href="https://links.bestxtools.com/imagen.research.google/" rel="ugc noopener nofollow" target="_blank"><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-26-00-48-08.png" title="" alt="Imagen: Text-to-Image Diffusion Models"></a><br>
+  <a href="https://links.bestxtools.com/imagen.research.google/" rel="ugc noopener nofollow" target="_blank"><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-26-00-48-47.png" title="" alt="Imagen: Text-to-Image Diffusion Models"></a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/github.blog/2022-05-19-math-support-in-markdown/" rel="ugc noopener nofollow" target="_blank">Math support in Markdown</a><br>
+  <a href="https://links.bestxtools.com/github.blog/2022-05-19-math-support-in-markdown/" rel="ugc noopener nofollow" target="_blank"><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-56-22.png" title="" alt="Math support in Markdown"></a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/andrewbaisden.hashnode.dev/the-top-12-nodejs-frameworks-on-github" rel="ugc noopener nofollow" target="_blank">The Top 12 Node.js Frameworks on GitHub️</a><br>
+  <a href="https://links.bestxtools.com/andrewbaisden.hashnode.dev/the-top-12-nodejs-frameworks-on-github" rel="ugc noopener nofollow" target="_blank"><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-56-23.png" title="" alt="The Top 12 Node.js Frameworks on GitHub️"></a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/javascript.info/" rel="ugc noopener nofollow" target="_blank">The Modern JavaScript Tutorial - javascript.info</a> (<a href="https://links.bestxtools.com/github.com/javascript-tutorial/en.javascript.info" rel="ugc noopener nofollow" target="_blank">源码</a>)</p>
+
+  <ul><li><p><a href="https://links.bestxtools.com/zh.javascript.info/" rel="ugc noopener nofollow" target="_blank">现代 JavaScript 教程</a> (<a href="https://links.bestxtools.com/github.com/javascript-tutorial/zh.javascript.info" rel="ugc noopener nofollow" target="_blank">源码</a>)</p></li></ul></li>
+
+<li><p><a href="https://links.bestxtools.com/levelup.gitconnected.com/5-advanced-javascript-concepts-that-will-make-you-a-better-developer-5d04292107a1" rel="ugc noopener nofollow" target="_blank">5 Advanced JavaScript concepts that will make you a better developer</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/skillicons.dev/" rel="ugc noopener nofollow" target="_blank">Skill Icons - Showcase your skills on your GitHub or resumé with ease!</a> (<a href="https://links.bestxtools.com/github.com/tandpfun/skill-icons" rel="ugc noopener nofollow" target="_blank">源码</a>)</p>
+
+<pre><code class="language-md">  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</code><script async="" crossorigin="anonymous" data-hljs-style="github" integrity="sha384-oTqfbnKDrROJYNQZI1U//Vr36HEjwJafOewSUYYyb5OXhv0r2qRQcjAP3yXa4HCg" onload="hljsLoader.highlightBlocks(this.parentNode)" src="https://cdn.jsdelivr.net/gh/s9e/hljs-loader@1.0.24/loader.min.js"></script></pre>
+
+  <p><a href="https://skillicons.dev" rel="ugc noopener nofollow" target="_blank"><img src="https://skillicons.dev/icons?i=js,html,css,wasm" title="" alt="My Skills"></a></p>
+
+  <p><a href="https://links.bestxtools.com/skillicons.dev/" rel="ugc noopener nofollow" target="_blank"><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-25-15-56-20.svg" title="" alt="Skill Icons - Showcase your skills on your GitHub or resumé with ease!"></a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了</a></p>
+
+  <p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html" rel="ugc noopener nofollow" target="_blank"><img src="https://fastly.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-19-09-56-16.png" title="" alt="科技爱好者周刊（第 207 期）：汽车行业的顶峰可能过去了"></a></p></li></ul>
+
+<hr>
+
+<h2>🌈 工具推荐</h2>
+
+<p>如果你有什么好玩的工具，可以是你做的或知道的，欢迎推荐。</p>
+
+<p>要求：</p>
+
+<ul><li>在线工具</li>
+<li>免费</li>
+<li>无需注册</li></ul>
+
+<p>推荐方式：</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">BestXTools</a></li>
+<li><a href="https://github.com/bestxtools/weekly-cn/issues" rel="ugc noopener nofollow" target="_blank">GitHub</a></li>
+<li><a href="https://links.bestxtools.com/www.v2ex.com/t/836201?r=BestXTools" rel="ugc noopener nofollow" target="_blank">V2EX</a></li></ul>
+
+<hr>
+
+<p>以上，便是本期全部内容。感谢你阅读到这里，下期见！</p>
+
+<p>好工具周刊同时发布到四个平台，订阅方式提供多种选择。</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">BestXTools 社区</a> (<a href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="ugc noopener" target="_self">RSS</a>)</li>
+<li><a href="https://github.com/bestxtools/weekly-cn" rel="ugc noopener nofollow" target="_blank">GitHub（Watch）</a></li>
+<li><a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">竹白（邮箱，微信）</a></li>
+<li><a href="https://geeknote.net/bestxtools" rel="ugc noopener nofollow" target="_blank">GeekNote</a> (<a href="https://geeknote.net/bestxtools/feed.atom" rel="ugc noopener nofollow" target="_blank">RSS</a>)</li></ul>
+
+<p>欢迎交流，投稿，订阅。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/37" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/39/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+]]></content>
+        <author>
+            <name>bestxtools</name>
+        </author>
+    </entry>
         <entry>
         <title><![CDATA[For RSS 订阅用户：因 cdn.jsdelivr.net DNS 被污染，看不到图片的，请到竹白，GitHub 阅读]]></title>
         <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/38/1"/>

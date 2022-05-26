@@ -2,6 +2,7 @@
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
+\- [ `2022/05/26` ] [好工具周刊（第 14 期）: GitHub Profile Page Creator, CodeCaptcha.io, Q.Link, ASCII text banners, ASCII Tree Generator, 网名大全, 翅膀符号网名生成器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-14.md)  
 \- [ `2022/05/19` ] [好工具周刊（第 13 期）: uiverse.io, Neumorphism, cssbuttons, AutoDraw, Shape Shifter, SQL Online Compiler, 网名在线生成器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-13.md)  
 \- [ `2022/05/12` ] [好工具周刊（第 12 期）: Hoppscotch, Blob Animation, Svg Wave, Array Builder, WEBP 转 PNG 转换器, MBTI 十六型人格测试 - 16Personalities, SVG PORN](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-12.md)  
 \- [ `2022/05/05` ] [好工具周刊（第 11 期）: favicon.io, Pixel Art Together, Look Scanned, Coverview, bookmark.style, ip.dog 🐶, IconKitchen](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-11.md)  
