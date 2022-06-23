@@ -7,8 +7,194 @@
     <link href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="self" />
     <link href="https://discuss-cn.bestxtools.com/" />
     <id><![CDATA[https://discuss-cn.bestxtools.com/]]></id>
-    <updated>2022-06-16T09:24:18+00:00</updated>
+    <updated>2022-06-23T01:21:18+00:00</updated>
 
+        <entry>
+        <title><![CDATA[好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, ...]]></title>
+        <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/47/1"/>
+        <id>https://discuss-cn.bestxtools.com/d/47/1</id>
+        <updated>2022-06-22T16:28:58+00:00</updated>
+        <content
+                    type="html"
+        ><![CDATA[<h1>好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, Grid Attack</h1>
+
+<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 <a href="https://www.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">BestXTools</a> 创作。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/43" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/47/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+
+<h2>🌈 在线工具</h2>
+
+<h3><a href="https://links.bestxtools.com/star-history.com/" rel="ugc noopener nofollow" target="_blank">Star History</a></h3>
+
+<p>一款可以查看 GitHub 项目的 star 增长情况的工具，可以把 svg 图片放到 README.md 里。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/star-history.com/" rel="ugc noopener nofollow" target="_blank">https://star-history.com/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/bytebase/star-history" rel="ugc noopener nofollow" target="_blank">https://github.com/bytebase/star-history</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-52-01.png" title="" alt="Star History"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-52-02.png" title="" alt="Star History"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-52-03.png" title="" alt="Star History"></p>
+
+<h3><a href="https://links.bestxtools.com/picdiet.eula.club/" rel="ugc noopener nofollow" target="_blank">Picdiet - 极速的在线图片压缩 80%图片体积</a></h3>
+
+<p>Picdiet 是基于 mozjpeg 的一款用 JavaScript 编写而成的图片压缩神器，所有压缩过程都在浏览器中进行，不会导致隐私或敏感图片泄漏，完全免费。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/picdiet.eula.club/" rel="ugc noopener nofollow" target="_blank">https://picdiet.eula.club/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-55-01.png" title="" alt="Picdiet - 极速的在线图片压缩80%图片体积"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-55-02.png" title="" alt="Picdiet - 极速的在线图片压缩80%图片体积"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-55-03.png" title="" alt="Picdiet - 极速的在线图片压缩80%图片体积"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/tinypng.com/" rel="ugc noopener nofollow" target="_blank">TinyPNG - https://tinypng.com/</a> (<a href="https://discuss-cn.bestxtools.com/d/9" rel="ugc noopener" target="_self">第 2 期</a>)</li>
+<li><a href="https://links.bestxtools.com/www.yalijuda.com/" rel="ugc noopener nofollow" target="_blank">鸭力巨大 - https://www.yalijuda.com/</a> (<a href="https://discuss-cn.bestxtools.com/d/16" rel="ugc noopener" target="_self">第 7 期</a>)</li></ul>
+
+<h3><a href="https://links.bestxtools.com/redacted.app/" rel="ugc noopener nofollow" target="_blank">Redacted</a></h3>
+
+<p>一款在线图片打马赛克工具，所有过程都在浏览器中进行，不会上传图片到服务器，完全免费。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/redacted.app/" rel="ugc noopener nofollow" target="_blank">https://redacted.app/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-17-01.png" title="" alt="Redacted"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-17-02.png" title="" alt="Redacted"></p>
+
+<h3><a href="https://links.bestxtools.com/goodpalette.io/" rel="ugc noopener nofollow" target="_blank">Goodpalette - Get Beautiful Color Palettes for UI Design</a></h3>
+
+<p>一款配色生成工具，可以直观地预览效果。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/goodpalette.io/" rel="ugc noopener nofollow" target="_blank">https://goodpalette.io/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-20-01.png" title="" alt="Goodpalette - Get Beautiful Color Palettes for UI Design"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-20-02.png" title="" alt="Goodpalette - Get Beautiful Color Palettes for UI Design"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-20-03.png" title="" alt="Goodpalette - Get Beautiful Color Palettes for UI Design"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/www.colorsandfonts.com/" rel="ugc noopener nofollow" target="_blank">Colorsandfonts https://www.colorsandfonts.com/</a> (<a href="https://discuss-cn.bestxtools.com/d/43" rel="ugc noopener" target="_self">第 17 期</a>)</li>
+<li><a href="https://links.bestxtools.com/uicolors.app/" rel="ugc noopener nofollow" target="_blank">UI Colors - https://uicolors.app/</a></li></ul>
+
+<h3><a href="https://links.bestxtools.com/zi.tools/" rel="ugc noopener nofollow" target="_blank">zi.tools 字統网</a></h3>
+
+<p>汉字源在线查询工具，关于汉字的字形演化、字源、字义、异体字、字符编码，功能齐全。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/zi.tools/" rel="ugc noopener nofollow" target="_blank">https://zi.tools/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-22-01.png" title="" alt="zi.tools 字統网"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-22-02.png" title="" alt="zi.tools 字統网"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-22-22-03.png" title="" alt="zi.tools 字統网"></p>
+
+<h3><a href="https://links.bestxtools.com/codingfantasy.com/games/flexboxadventure/" rel="ugc noopener nofollow" target="_blank">Play Flex Box Adventure – CSS Game to Learn Flexbox</a></h3>
+
+<p>一款通过游戏学习 CSS Flex 布局的在线小游戏。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/codingfantasy.com/games/flexboxadventure/" rel="ugc noopener nofollow" target="_blank">https://codingfantasy.com/games/flexboxadventure/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-31-01.png" title="" alt="Play Flex Box Adventure – CSS Game to Learn Flexbox"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-31-02.png" title="" alt="Play Flex Box Adventure – CSS Game to Learn Flexbox"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-31-03.png" title="" alt="Play Flex Box Adventure – CSS Game to Learn Flexbox"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/flexboxfroggy.com/" rel="ugc noopener nofollow" target="_blank">Flexbox Froggy - A game for learning CSS flexbox - https://flexboxfroggy.com/</a></li></ul>
+
+<h3><a href="https://links.bestxtools.com/codingfantasy.com/games/css-grid-attack/" rel="ugc noopener nofollow" target="_blank">Play Grid Attack – CSS Game to learn CSS Grid</a></h3>
+
+<p>一款通过游戏学习 CSS Grid 布局的在线小游戏。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/codingfantasy.com/games/css-grid-attack/" rel="ugc noopener nofollow" target="_blank">https://codingfantasy.com/games/css-grid-attack/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-47-01.png" title="" alt="Play Grid Attack – CSS Game to learn CSS Grid"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-47-02.png" title="" alt="Play Grid Attack – CSS Game to learn CSS Grid"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-47-03.png" title="" alt="Play Grid Attack – CSS Game to learn CSS Grid"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/cssgridgarden.com/" rel="ugc noopener nofollow" target="_blank">Grid Garden - A game for learning CSS grid layout - https://cssgridgarden.com/</a></li></ul>
+
+<hr>
+
+<h2>🧰 <a href="https://awesome-toolbox-chinese.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">在线工具箱大全</a></h2>
+
+<p>很多程序员都喜欢做一个工具箱。平时也会经常用到各种工具。这里收集了一些国内外好用的在线工具箱。</p>
+
+<p><a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank"><img src="https://gh-card.dev/repos/bestxtools/awesome-toolbox-chinese.svg?fullname=" title="" alt="bestxtools/awesome-toolbox-chinese - GitHub"></a></p>
+
+<p>链接:</p>
+
+<ul><li><a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">https://github.com/bestxtools/awesome-toolbox-chinese</a></li>
+<li><a href="https://xn--s28he6d.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">https://😎🧰.bestxtools.com/</a></li></ul>
+
+<p>欢迎<a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">点赞</a>，收藏，<a href="https://github.com/bestxtools/awesome-toolbox-chinese/issues" rel="ugc noopener nofollow" target="_blank">投稿</a>。</p>
+
+<hr>
+
+<h2>🌈 文章 &amp; 资源分享</h2>
+
+<ul><li><p><a href="https://links.bestxtools.com/prithu.dev/posts/unix-pipeline/" rel="ugc noopener nofollow" target="_blank">The beauty of Unix pipelines</a> (<a href="https://links.bestxtools.com/news.ycombinator.com/item?id=23420786" rel="ugc noopener nofollow" target="_blank">Hacker News</a>)</p></li>
+
+<li><p><a href="https://links.bestxtools.com/www.crio.do/blog/vs-code-shortcuts/" rel="ugc noopener nofollow" target="_blank">25 Most Used VS Code Shortcuts And More + Cheat Sheet</a></p>
+
+  <p><a href="https://links.bestxtools.com/www.crio.do/blog/vs-code-shortcuts/" rel="ugc noopener nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-50-01.png" title="" alt="25 Most Used VS Code Shortcuts And More + Cheat Sheet"></a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/kinsta.com/blog/web-design-principles/" rel="ugc noopener nofollow" target="_blank">15 Web Design Principles for a Customer-Friendly Website</a></p>
+
+  <p><a href="https://links.bestxtools.com/kinsta.com/blog/web-design-principles/" rel="ugc noopener nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-50-02.jpeg" title="" alt="15 Web Design Principles for a Customer-Friendly Website"></a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746" rel="ugc noopener nofollow" target="_blank">Writing Clean JavaScript</a></p>
+
+  <p><a href="https://links.bestxtools.com/medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746" rel="ugc noopener nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-21-23-50-03.jpeg" title="" alt="Writing Clean JavaScript"></a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 210 期）：为什么软件变得复杂</a></p>
+
+  <p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html" rel="ugc noopener nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-22-23-49-01.png" title="" alt="科技爱好者周刊（第 210 期）：为什么软件变得复杂"></a></p></li></ul>
+
+<hr>
+
+<h2>🌈 工具推荐</h2>
+
+<p>以上，便是本期全部内容。本期最喜欢的工具是哪一个，请在<a href="https://discuss-cn.bestxtools.com/d/47/3" rel="ugc noopener" target="_self">评论区留言</a>。感谢你阅读到这里，下期见！</p>
+
+<p>要求：</p>
+
+<ul><li>在线工具</li>
+<li>免费</li>
+<li>无需注册</li></ul>
+
+<p>推荐方式：</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">BestXTools</a></li>
+<li><a href="https://github.com/bestxtools/weekly-cn/issues" rel="ugc noopener nofollow" target="_blank">GitHub</a></li>
+<li><a href="https://links.bestxtools.com/www.v2ex.com/t/836201?r=BestXTools" rel="ugc noopener nofollow" target="_blank">V2EX</a></li></ul>
+
+<hr>
+
+<p>以上，便是本期全部内容。感谢你阅读到这里，下期见！</p>
+
+<p>好工具周刊同时发布到四个平台，订阅方式提供多种选择。</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">BestXTools 社区</a> (<a href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="ugc noopener" target="_self">RSS</a>)</li>
+<li><a href="https://github.com/bestxtools/weekly-cn" rel="ugc noopener nofollow" target="_blank">GitHub（Watch）</a></li>
+<li><a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">竹白（邮箱，微信）</a></li>
+<li><a href="https://geeknote.net/bestxtools" rel="ugc noopener nofollow" target="_blank">GeekNote</a> (<a href="https://geeknote.net/bestxtools/feed.atom" rel="ugc noopener nofollow" target="_blank">RSS</a>)</li></ul>
+
+<p>欢迎交流，投稿，订阅。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/43" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/47/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+]]></content>
+        <author>
+            <name>bestxtools</name>
+        </author>
+    </entry>
         <entry>
         <title><![CDATA[好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Griddy, ...]]></title>
         <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/43/1"/>
@@ -213,7 +399,7 @@
 
 <hr>
 
-<p><a href="https://discuss-cn.bestxtools.com/d/40" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/42/3" rel="ugc noopener" target="_self">评论</a></p>
+<p><a href="https://discuss-cn.bestxtools.com/d/40" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/43" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/42/3" rel="ugc noopener" target="_self">评论</a></p>
 
 <hr>
 
@@ -390,7 +576,7 @@
 
 <hr>
 
-<p><a href="https://discuss-cn.bestxtools.com/d/40" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/42/3" rel="ugc noopener" target="_self">评论</a></p>
+<p><a href="https://discuss-cn.bestxtools.com/d/40" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/43" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/42/3" rel="ugc noopener" target="_self">评论</a></p>
 
 <hr>
 ]]></content>
@@ -411,7 +597,7 @@
 
 <hr>
 
-<p><a href="https://discuss-cn.bestxtools.com/d/39" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/40/3" rel="ugc noopener" target="_self">评论</a></p>
+<p><a href="https://discuss-cn.bestxtools.com/d/39" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/42" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/40/3" rel="ugc noopener" target="_self">评论</a></p>
 
 <hr>
 
@@ -567,7 +753,7 @@
 
 <hr>
 
-<p><a href="https://discuss-cn.bestxtools.com/d/39" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/40/3" rel="ugc noopener" target="_self">评论</a></p>
+<p><a href="https://discuss-cn.bestxtools.com/d/39" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/42" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/40/3" rel="ugc noopener" target="_self">评论</a></p>
 
 <hr>
 ]]></content>
