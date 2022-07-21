@@ -2,7 +2,9 @@
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
-\- [ `2022/07/07` ] [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-20.md)
+\- [ `2022/07/21` ] [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, password-generator, PixelMe, Trianglify, Free Graphics](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-22.md)  
+\- [ `2022/07/14` ] [好工具周刊（第 21 期）: Internxt Send, iHateRegex, RegexLearn, BatNoter, perfect-freehand, Array Explorer & Object Explorer, TypeLit.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-21.md)  
+\- [ `2022/07/07` ] [好工具周刊（第 20 期）: JS Paint, Pixel Art to CSS, ColorFu, GitExplorer, Star Charts, LetsMarkdown, ui-color](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-20.md)  
 \- [ `2022/06/30` ] [好工具周刊（第 19 期）: Remover.app, Enpuz, regex101, Regexper, Stormah, fffuel, Hovercode](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-19.md)  
 \- [ `2022/06/23` ] [好工具周刊（第 18 期）: Star History, Picdiet, Redacted, Goodpalette, zi.tools, Flex Box Adventure, Grid Attack](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-18.md)  
 \- [ `2022/06/16` ] [好工具周刊（第 17 期）: Git History, Arya, DiceBear Avatars, GitHub Card, Open Graph Image Generator, Griddy, Colorsandfonts](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-17.md)  
