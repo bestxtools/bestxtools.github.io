@@ -7,8 +7,172 @@
     <link href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="self" />
     <link href="https://discuss-cn.bestxtools.com/" />
     <id><![CDATA[https://discuss-cn.bestxtools.com/]]></id>
-    <updated>2022-07-21T07:13:08+00:00</updated>
+    <updated>2022-07-28T04:03:09+00:00</updated>
 
+        <entry>
+        <title><![CDATA[好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, ...]]></title>
+        <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/61/1"/>
+        <id>https://discuss-cn.bestxtools.com/d/61/1</id>
+        <updated>2022-07-28T03:40:04+00:00</updated>
+        <content
+                    type="html"
+        ><![CDATA[<h1>好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, Username Generator, Fake Name Generator, itty.bitty</h1>
+
+<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 <a href="https://www.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">BestXTools</a> 创作。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/60" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/61/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+
+<h2>🌈 在线工具</h2>
+
+<h3><a href="https://links.bestxtools.com/faceswapper.ai/" rel="ugc noopener nofollow" target="_blank">FaceSwapper</a></h3>
+
+<p>一款使用人工智能技术换脸的工具，输入两张人物照片，即可实现换脸。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/faceswapper.ai/" rel="ugc noopener nofollow" target="_blank">https://faceswapper.ai/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-41-01.png" title="" alt="FaceSwapper"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-41-02.png" title="" alt="FaceSwapper"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-41-03.png" title="" alt="FaceSwapper"></p>
+
+<h3><a href="https://links.bestxtools.com/emoji.supply/kitchen" rel="ugc noopener nofollow" target="_blank">Emoji Kitchen Browser</a></h3>
+
+<p>一款能将两个不同的 Emoji 符号组合成一个新的表情的工具。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/emoji.supply/kitchen" rel="ugc noopener nofollow" target="_blank">https://emoji.supply/kitchen</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/alcor/emoji-supply" rel="ugc noopener nofollow" target="_blank">https://github.com/alcor/emoji-supply</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-09-01.png" title="" alt="Emoji Kitchen Browser"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-09-02.png" title="" alt="Emoji Kitchen Browser"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/tikolu.net/emojimix" rel="ugc noopener nofollow" target="_blank">emojimix - tikolu.net/emojimix</a> (<a href="https://discuss-cn.bestxtools.com/d/11" rel="ugc noopener" target="_self">第 3 期</a>)</li></ul>
+
+<h3><a href="https://links.bestxtools.com/emoji.supply/wallpaper" rel="ugc noopener nofollow" target="_blank">Emoji Wallpaper</a></h3>
+
+<p>一款把 Emoji 组合成漂亮的壁纸、封面图的工具。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/emoji.supply/wallpaper" rel="ugc noopener nofollow" target="_blank">https://emoji.supply/wallpaper</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/alcor/emoji-supply" rel="ugc noopener nofollow" target="_blank">https://github.com/alcor/emoji-supply</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-16-01.png" title="" alt="Emoji Wallpaper"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-16-02.png" title="" alt="Emoji Wallpaper"></p>
+
+<h3><a href="https://links.bestxtools.com/vue-color-avatar.vercel.app/" rel="ugc noopener nofollow" target="_blank">Vue Color Avatar</a></h3>
+
+<p>一款矢量风格头像的生成器，你可以搭配不同的素材组件，生成自己的个性化头像。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/vue-color-avatar.vercel.app/" rel="ugc noopener nofollow" target="_blank">https://vue-color-avatar.vercel.app/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/Codennnn/vue-color-avatar" rel="ugc noopener nofollow" target="_blank">https://github.com/Codennnn/vue-color-avatar</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-22-01.png" title="" alt="Vue Color Avatar"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-22-02.png" title="" alt="Vue Color Avatar"></p>
+
+<h3><a href="https://links.bestxtools.com/www.lastpass.com/features/username-generator" rel="ugc noopener nofollow" target="_blank">Username Generator</a></h3>
+
+<p>一款英文用户名/昵称生成器，可以指定容易念或容易阅读选项。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/www.lastpass.com/features/username-generator" rel="ugc noopener nofollow" target="_blank">https://www.lastpass.com/features/username-generator</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-27-16-23-01.png" title="" alt="Username Generator"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-27-16-23-02.png" title="" alt="Username Generator"></p>
+
+<h3><a href="https://links.bestxtools.com/toolfig.com/fake-name-generator" rel="ugc noopener nofollow" target="_blank">Fake Name Generator</a></h3>
+
+<p>一款虚假英文用户信息生成器，包括名字、年龄、电话、邮箱、住址等。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/toolfig.com/fake-name-generator" rel="ugc noopener nofollow" target="_blank">https://toolfig.com/fake-name-generator</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-27-16-33-01.png" title="" alt="Fake Name Generator"></p>
+
+<h3><a href="https://links.bestxtools.com/about.bitty.site/" rel="ugc noopener nofollow" target="_blank">itty.bitty</a></h3>
+
+<p>一款能把网页、很长的推文、图片、应用转成一个 URL 地址，分享给他人的工具。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/about.bitty.site/" rel="ugc noopener nofollow" target="_blank">https://about.bitty.site/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/alcor/itty-bitty" rel="ugc noopener nofollow" target="_blank">https://github.com/alcor/itty-bitty</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-46-01.png" title="" alt="itty.bitty"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-46-02.png" title="" alt="itty.bitty"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-00-46-03.png" title="" alt="itty.bitty"></p>
+
+<hr>
+
+<h2>🧰 <a href="https://awesome-toolbox-chinese.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">在线工具箱大全</a></h2>
+
+<p>很多程序员都喜欢做一个工具箱。平时也会经常用到各种工具。这里收集了一些国内外好用的在线工具箱。</p>
+
+<p>链接:</p>
+
+<ul><li><a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">https://github.com/bestxtools/awesome-toolbox-chinese</a></li>
+<li><a href="https://xn--s28he6d.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">https://😎🧰.bestxtools.com/</a></li></ul>
+
+<p>欢迎<a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">点赞</a>，收藏，<a href="https://github.com/bestxtools/awesome-toolbox-chinese/issues" rel="ugc noopener nofollow" target="_blank">投稿</a>。</p>
+
+<hr>
+
+<h2>🌈 文章 &amp; 资源分享</h2>
+
+<ul><li><p><a href="https://links.bestxtools.com/cult.honeypot.io/reads/git-commands-cheat-sheet-for-all-developers/" rel="ugc noopener nofollow" target="_blank">Git Commands - Cheat Sheet for All Developers</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/www.robinwieruch.de/web-applications/" rel="ugc noopener nofollow" target="_blank">Web Applications 101</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/swizec.com/blog/what-makes-a-great-software-engineer/" rel="ugc noopener nofollow" target="_blank">What makes a great software engineer?</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/mlu-explain.github.io/" rel="ugc noopener nofollow" target="_blank">MLU-Explain - Visual explanations of core machine learning concepts</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式</a></p>
+
+  <p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html" rel="ugc noopener nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-28-01-45-01.png" title="" alt="科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式"></a></p></li></ul>
+
+<hr>
+
+<h2>🌈 工具推荐</h2>
+
+<p>以上，便是本期全部内容。本期最喜欢的工具是哪一个，请在<a href="https://discuss-cn.bestxtools.com/d/61/3" rel="ugc noopener" target="_self">评论区留言</a>。感谢你阅读到这里，下期见！</p>
+
+<p>要求：</p>
+
+<ul><li>在线工具</li>
+<li>免费</li>
+<li>无需注册</li></ul>
+
+<p>推荐方式：</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">BestXTools</a></li>
+<li><a href="https://github.com/bestxtools/weekly-cn/issues" rel="ugc noopener nofollow" target="_blank">GitHub</a></li>
+<li><a href="https://links.bestxtools.com/www.v2ex.com/t/836201?r=BestXTools" rel="ugc noopener nofollow" target="_blank">V2EX</a></li></ul>
+
+<hr>
+
+<p>以上，便是本期全部内容。感谢你阅读到这里，下期见！</p>
+
+<p>好工具周刊同时发布到三个平台，订阅方式提供多种选择。</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">BestXTools 社区</a> (<a href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="ugc noopener" target="_self">RSS</a>)</li>
+<li><a href="https://github.com/bestxtools/weekly-cn" rel="ugc noopener nofollow" target="_blank">GitHub（Watch）</a></li>
+<li><a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">竹白（邮箱，微信）</a></li></ul>
+
+<p>欢迎交流，投稿，订阅。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/60" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/61/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+]]></content>
+        <author>
+            <name>bestxtools</name>
+        </author>
+    </entry>
         <entry>
         <title><![CDATA[好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, PixelMe, ...]]></title>
         <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/60/1"/>
