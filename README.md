@@ -2,6 +2,8 @@
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
+\- [ `2022/08/18` ] [好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-26.md)  
+\- [ `2022/08/11` ] [好工具周刊（第 25 期）: QuickRef, Dillinger, Tomodoro, Line Graph Maker, Ava Maker, Gofile, Ventusky](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-25.md)  
 \- [ `2022/08/04` ] [好工具周刊（第 24 期）: OSS Insight, Active GitHub Forks, Hat.sh, snappify, Purple Photo, crontab guru, stooge](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-24.md)  
 \- [ `2022/07/28` ] [好工具周刊（第 23 期）: FaceSwapper, Emoji Kitchen, Emoji Wallpaper, Vue Color Avatar, Username Generator, Fake Name Generator, itty.bitty](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-23.md)  
 \- [ `2022/07/21` ] [好工具周刊（第 22 期）: Everyone Draw, Regex Cross­word, Wireflow, password-generator, PixelMe, Trianglify, Free Graphics](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-22.md)  
