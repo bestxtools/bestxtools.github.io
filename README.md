@@ -2,6 +2,7 @@
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
+\- [ `2022/09/08` ] [好工具周刊（第 29 期）: Squoosh, AI Background Generator, Background Remover, Motionity, Privnote, 小鸡词典, 发音纠正器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-29.md)  
 \- [ `2022/09/01` ] [好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, hnapp, Hacker News Digest, HN Mail, Read Hacker News on Kindle](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-28.md)  
 \- [ `2022/08/25` ] [好工具周刊（第 27 期）: BgSub, Txtmoji, Slickr, Moodly, Windy, 一起听播客, 图形方格纸](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-27.md)  
 \- [ `2022/08/18` ] [好工具周刊（第 26 期）: Kludd, Koodo Reader, 画图本, Uchinoko Maker, 反向词典, nbnhhsh (能不能好好说话)](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-26.md)  
