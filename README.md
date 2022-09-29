@@ -2,6 +2,8 @@
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
+\- [ `2022/09/29` ] [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-32.md)  
+\- [ `2022/09/22` ] [好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-31.md)  
 \- [ `2022/09/15` ] [好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, 随机英文姓名生成器, REVERB](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-30.md)  
 \- [ `2022/09/08` ] [好工具周刊（第 29 期）: Squoosh, AI Background Generator, Background Remover, Motionity, Privnote, 小鸡词典, 发音纠正器](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-29.md)  
 \- [ `2022/09/01` ] [好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, hnapp, Hacker News Digest, HN Mail, Read Hacker News on Kindle](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-28.md)  
@@ -25,7 +27,7 @@
 \- [ `2022/04/28` ] [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-10.md)  
 \- [ `2022/04/21` ] [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md)  
 \- [ `2022/04/14` ] [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md)  
-\- [ `2022/04/07` ] [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)  
+\- [ `2022/04/07` ] [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Crack, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)  
 \- [ `2022/03/31` ] [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md)  
 \- [ `2022/03/24` ] [好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-5.md)  
 \- [ `2022/03/17` ] [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-4.md)  

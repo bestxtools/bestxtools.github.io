@@ -2,13 +2,452 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title><![CDATA[好工具周刊]]></title>
-    <subtitle><![CDATA[好工具周刊]]></subtitle>
+    <title><![CDATA[weekly 标签新帖]]></title>
+    <subtitle><![CDATA[weekly 标签新帖]]></subtitle>
     <link href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="self" />
     <link href="https://discuss-cn.bestxtools.com/" />
     <id><![CDATA[https://discuss-cn.bestxtools.com/]]></id>
-    <updated>2022-09-15T09:41:43+00:00</updated>
+    <updated>2022-09-29T09:49:12+00:00</updated>
 
+        <entry>
+        <title><![CDATA[好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1]]></title>
+        <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/81/1"/>
+        <id>https://discuss-cn.bestxtools.com/d/81/1</id>
+        <updated>2022-09-29T08:49:01+00:00</updated>
+        <content
+                    type="html"
+        ><![CDATA[<h1>好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1</h1>
+
+<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 <a href="https://www.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">BestXTools</a> 创作。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/80" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/t/tools" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/81/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+
+<h2>🎉 实用开源工具推荐</h2>
+
+<p>马上就是十一长假了，希望大家度过一个愉快的假期。出去旅游的朋友们，多注意安全。如果不打算去哪里玩，本期内容就是为你准备的。</p>
+
+<p>本期是一个特别篇，从之前推荐过的工具中，挑出了几个很实用的优秀的开源的工具，推荐给大家。喜欢折腾的朋友，可以尝试一下部署在本地或自己的服务器上。如果经常使用，访问本地的会节省很多时间，还可以按自己的口味改造一下。</p>
+
+<p>如有什么问题，欢迎在<a href="https://discuss-cn.bestxtools.com/d/81/3" rel="ugc noopener" target="_self">评论</a>区讨论。更多开源的工具访问 <a href="https://github.com/topics/bestxtools-weekly" rel="ugc noopener nofollow" target="_blank">#bestxtools-weekly</a>。</p>
+
+<p>另外，下周四（10 月 06 日）因国庆假期，周刊休息 ♨️ 一周。</p>
+
+<p>再次祝大家度过一个愉快的假期。</p>
+
+<h2>🌈 在线工具</h2>
+
+<h3><a href="https://links.bestxtools.com/jsonhero.io/" rel="ugc noopener nofollow" target="_blank">JSON Hero</a> (<a href="https://discuss-cn.bestxtools.com/d/42" rel="ugc noopener" target="_self">第 16 期</a>)</h3>
+
+<p>一款超级强大的 JSON 可视化工具。支持多种视图模式、搜索功能、多种数据类型的预览（日期、图片、颜色、链接等）。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/jsonhero.io/" rel="ugc noopener nofollow" target="_blank">https://jsonhero.io/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/apihero-run/jsonhero-web" rel="ugc noopener nofollow" target="_blank">https://github.com/apihero-run/jsonhero-web</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-01.png" title="" alt="JSON Hero"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-02.gif" title="" alt="JSON Hero"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-07-17-53-03.gif" title="" alt="JSON Hero"></p>
+
+<h3><a href="https://links.bestxtools.com/jsoncrack.com/" rel="ugc noopener nofollow" target="_blank">JSON Crack</a> (<a href="https://discuss-cn.bestxtools.com/d/16" rel="ugc noopener" target="_self">第 7 期</a>)</h3>
+
+<p>一个开源的 JSON 可视化工具，可以将 JSON 数据转换成树状图。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/jsoncrack.com/" rel="ugc noopener nofollow" target="_blank">https://jsoncrack.com/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/AykutSarac/jsoncrack.com" rel="ugc noopener nofollow" target="_blank">https://github.com/AykutSarac/jsoncrack.com</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-14-29-26.png" title="" alt="JSON Crack"></p>
+
+<h3><a href="https://links.bestxtools.com/hoppscotch.io/" rel="ugc noopener nofollow" target="_blank">Hoppscotch - Open source API development ecosystem</a> (<a href="https://discuss-cn.bestxtools.com/d/34" rel="ugc noopener" target="_self">第 12 期</a>)</h3>
+
+<p>一个免费开源的 Postman 替代品，对开发测试 API 很有帮助。界面简洁、清爽。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/hoppscotch.io/" rel="ugc noopener nofollow" target="_blank">https://hoppscotch.io/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/hoppscotch/hoppscotch" rel="ugc noopener nofollow" target="_blank">https://github.com/hoppscotch/hoppscotch</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-15-14-21.png" title="" alt="Hoppscotch - Open source API development ecosystem"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-05-11-15-20-19.png" title="" alt="Hoppscotch - Open source API development ecosystem"></p>
+
+<h3><a href="https://links.bestxtools.com/excalidraw.com/" rel="ugc noopener nofollow" target="_blank">Excalidraw | Hand-drawn look &amp; feel • Collaborative • Secure</a> (<a href="https://discuss-cn.bestxtools.com/d/14" rel="ugc noopener" target="_self">第 6 期</a>)</h3>
+
+<p>Excalidraw 是一个非常简单易用的在线协作白板、绘图工具，可让您轻松绘制具有手绘感的图表。(<a href="https://discuss-cn.bestxtools.com/d/8/11" rel="ugc noopener" target="_self">@xtar</a> 投稿)</p>
+
+<p>链接: <a href="https://links.bestxtools.com/excalidraw.com/" rel="ugc noopener nofollow" target="_blank">https://excalidraw.com/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/excalidraw/excalidraw" rel="ugc noopener nofollow" target="_blank">https://github.com/excalidraw/excalidraw</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-17-01-45.png" title="" alt="Excalidraw | Hand-drawn look &amp; feel • Collaborative • Secure"></p>
+
+<h3><a href="https://links.bestxtools.com/www.tldraw.com/" rel="ugc noopener nofollow" target="_blank">tldraw - A tiny little drawing app</a> (<a href="https://discuss-cn.bestxtools.com/d/22" rel="ugc noopener" target="_self">第 8 期</a>)</h3>
+
+<p>tldraw 是一个非常简单易用的在线白板、绘图工具。(<a href="https://discuss-cn.bestxtools.com/d/8/14" rel="ugc noopener" target="_self">@Jaya0455</a> 投稿)</p>
+
+<p>链接: <a href="https://links.bestxtools.com/www.tldraw.com/" rel="ugc noopener nofollow" target="_blank">https://www.tldraw.com/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/tldraw/tldraw" rel="ugc noopener nofollow" target="_blank">https://github.com/tldraw/tldraw</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-16-25-43.png" title="" alt="tldraw"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-13-16-25-42.png" title="" alt="tldraw"></p>
+
+<h3><a href="https://links.bestxtools.com/perfect-freehand-example.vercel.app/" rel="ugc noopener nofollow" target="_blank">perfect-freehand</a> (<a href="https://discuss-cn.bestxtools.com/d/58" rel="ugc noopener" target="_self">第 21 期</a>)</h3>
+
+<p>一款开源的手绘风格的绘画工具。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/perfect-freehand-example.vercel.app/" rel="ugc noopener nofollow" target="_blank">https://perfect-freehand-example.vercel.app/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/steveruizok/perfect-freehand" rel="ugc noopener nofollow" target="_blank">https://github.com/steveruizok/perfect-freehand</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-12-17-17-01.png" title="" alt="perfect-freehand"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-12-17-17-03.png" title="" alt="perfect-freehand"></p>
+
+<h3><a href="https://links.bestxtools.com/app.diagrams.net/?src=bestxtools" rel="ugc noopener nofollow" target="_blank">diagrams.net - Diagram Software and Flowchart Maker</a> (<a href="https://discuss-cn.bestxtools.com/d/16" rel="ugc noopener" target="_self">第 7 期</a>)</h3>
+
+<p>一个开源免费的在线画流程图的网站。无需注册，无需登录，可以下载，可以导出为 png, jpeg, svg, pdf 等格式。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/app.diagrams.net/" rel="ugc noopener nofollow" target="_blank">https://app.diagrams.net/</a> | <a href="https://links.bestxtools.com/www.draw.io/" rel="ugc noopener nofollow" target="_blank">https://www.draw.io/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/jgraph/drawio" rel="ugc noopener nofollow" target="_blank">https://github.com/jgraph/drawio</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-15-08-27.png" title="" alt="diagrams.net - Diagram Software and Flowchart Maker"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-04-06-15-09-32.png" title="" alt="diagrams.net - Diagram Software and Flowchart Maker"></p>
+
+<h3><a href="https://links.bestxtools.com/reader.960960.xyz/" rel="ugc noopener nofollow" target="_blank">Koodo Reader: 一个跨平台的电子书阅读器</a> (<a href="https://discuss-cn.bestxtools.com/d/70" rel="ugc noopener" target="_self">第 26 期</a>)</h3>
+
+<p>一款开源免费的电子书阅读器，支持多达 15 种主流电子书格式，支持目录，书签，笔记，高亮，书架，标签等功能。支持 Windows, macOS, Linux 和 Web 多个版本，并且具有跨平台同步和备份能力。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/reader.960960.xyz/" rel="ugc noopener nofollow" target="_blank">https://reader.960960.xyz/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/troyeguo/koodo-reader" rel="ugc noopener nofollow" target="_blank">https://github.com/troyeguo/koodo-reader</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-02.png" title="" alt="Koodo Reader: 一个跨平台的电子书阅读器"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-03.png" title="" alt="Koodo Reader: 一个跨平台的电子书阅读器"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-17-23-15-04.png" title="" alt="Koodo Reader: 一个跨平台的电子书阅读器"></p>
+
+<h3><a href="https://links.bestxtools.com/mrjooz.github.io/password-generator/" rel="ugc noopener nofollow" target="_blank">password-generator</a> (<a href="https://discuss-cn.bestxtools.com/d/60" rel="ugc noopener" target="_self">第 22 期</a>)</h3>
+
+<p>一款密码生成工具，用户只需要记住记忆密码+区分代码的规则就能记住各类不同密码。所有计算操作都在本地进行，不会向服务器发送消息。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/mrjooz.github.io/password-generator/" rel="ugc noopener nofollow" target="_blank">https://mrjooz.github.io/password-generator/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/mrjooz/password-generator" rel="ugc noopener nofollow" target="_blank">https://github.com/mrjooz/password-generator</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-01.png" title="" alt="password-generator"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-02.png" title="" alt="password-generator"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-07-21-10-50-03.png" title="" alt="password-generator"></p>
+
+<h3><a href="https://links.bestxtools.com/devhints.io/" rel="ugc noopener nofollow" target="_blank">Devhints — TL;DR for developer documentation</a> (<a href="https://discuss-cn.bestxtools.com/d/80" rel="ugc noopener" target="_self">第 31 期</a>)</h3>
+
+<p>一个开源的开发者工具和语言的 cheatsheets 查阅网站。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/devhints.io/" rel="ugc noopener nofollow" target="_blank">https://devhints.io/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/rstacruz/cheatsheets" rel="ugc noopener nofollow" target="_blank">https://github.com/rstacruz/cheatsheets</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-04.png" title="" alt="Devhints — TL;DR for developer documentation"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-01.png" title="" alt="Devhints — TL;DR for developer documentation"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-02.png" title="" alt="Devhints — TL;DR for developer documentation"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-03.png" title="" alt="Devhints — TL;DR for developer documentation"></p>
+
+<h3><a href="https://links.bestxtools.com/qwerty.kaiyi.cool/" rel="ugc noopener nofollow" target="_blank">Qwerty Learner</a> (<a href="https://discuss-cn.bestxtools.com/d/14" rel="ugc noopener" target="_self">第 6 期</a>)</h3>
+
+<p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼在线工具。边学英语，边练打字。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/qwerty.kaiyi.cool/" rel="ugc noopener nofollow" target="_blank">https://qwerty.kaiyi.cool/</a></p>
+
+<p>备用链接:</p>
+
+<ul><li><a href="https://links.bestxtools.com/kaiyiwing.github.io/qwerty-learner/" rel="ugc noopener nofollow" target="_blank">https://kaiyiwing.github.io/qwerty-learner/</a></li>
+<li><a href="https://links.bestxtools.com/kaiyiwing.gitee.io/qwerty-learner/" rel="ugc noopener nofollow" target="_blank">https://kaiyiwing.gitee.io/qwerty-learner/</a></li></ul>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner" rel="ugc noopener nofollow" target="_blank">https://github.com/Kaiyiwing/qwerty-learner</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-30-15-55-07.png" title="" alt="Qwerty Learner"></p>
+
+<p>它还有 <a href="https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner-vscode" rel="ugc noopener nofollow" target="_blank">VSCode 插件摸 🐟 版</a>，代码写累了，打打字，休息一下脑子。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/github.com/Kaiyiwing/qwerty-learner-vscode" rel="ugc noopener nofollow" target="_blank">https://github.com/Kaiyiwing/qwerty-learner-vscode</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/qwerty-learner-vscode.gif" title="" alt="Qwerty Learner VSCode"></p>
+
+<h3><a href="https://links.bestxtools.com/dillinger.io/" rel="ugc noopener nofollow" target="_blank">Online Markdown Editor - Dillinger, the Last Markdown Editor ever.</a> (<a href="https://discuss-cn.bestxtools.com/d/65" rel="ugc noopener" target="_self">第 25 期</a>)</h3>
+
+<p>一款功能强大的在线 Markdown 编辑器。支持将 HTML 转换为 Markdown，支持导入、导出到 GitHub, Dropbox, Google Drive, One Drive 等平台，可以导出为 HTML, PDF 等文件。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/dillinger.io/" rel="ugc noopener nofollow" target="_blank">https://dillinger.io/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/joemccann/dillinger" rel="ugc noopener nofollow" target="_blank">https://github.com/joemccann/dillinger</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-18-03-01.png" title="" alt="Online Markdown Editor - Dillinger, the Last Markdown Editor ever."><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-18-03-02.png" title="" alt="Online Markdown Editor - Dillinger, the Last Markdown Editor ever."></p>
+
+<h3><a href="https://links.bestxtools.com/markdown.lovejade.cn/" rel="ugc noopener nofollow" target="_blank">Arya - 在线 Markdown 编辑器</a> (<a href="https://discuss-cn.bestxtools.com/d/43" rel="ugc noopener" target="_self">第 17 期</a>)</h3>
+
+<p>一款基于 Vue、<a href="https://links.bestxtools.com/github.com/Vanessa219/vditor" rel="ugc noopener nofollow" target="_blank">Vditor</a>，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/markdown.lovejade.cn/" rel="ugc noopener nofollow" target="_blank">https://markdown.lovejade.cn/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/nicejade/markdown-online-editor" rel="ugc noopener nofollow" target="_blank">https://github.com/nicejade/markdown-online-editor</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-01.png" title="" alt="Arya - 在线 Markdown 编辑器"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-02.png" title="" alt="Arya - 在线 Markdown 编辑器"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-06-16-02-17-03.png" title="" alt="Arya - 在线 Markdown 编辑器"></p>
+
+<h3><a href="https://links.bestxtools.com/lazy-guy.github.io/tomodoro/" rel="ugc noopener nofollow" target="_blank">Tomodoro</a> (<a href="https://discuss-cn.bestxtools.com/d/65" rel="ugc noopener" target="_self">第 25 期</a>)</h3>
+
+<p>一款开源的网页版番茄钟应用，通过画中画功能(Picture-In-Picture)，可以让番茄钟一直显示在屏幕上。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/lazy-guy.github.io/tomodoro/" rel="ugc noopener nofollow" target="_blank">https://lazy-guy.github.io/tomodoro/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/lazy-guy/tomodoro" rel="ugc noopener nofollow" target="_blank">https://github.com/lazy-guy/tomodoro</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-01.png" title="" alt="Tomodoro"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-03.png" title="" alt="Tomodoro"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-02.png" title="" alt="Tomodoro"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-08-10-16-47-04.png" title="" alt="Tomodoro"></p>
+
+<hr>
+
+<h2>🧰 <a href="https://awesome-toolbox-chinese.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">在线工具箱大全</a></h2>
+
+<p>聚合了非常多的国内外优秀的在线工具箱，欢迎<a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">点赞</a>，收藏，<a href="https://github.com/bestxtools/awesome-toolbox-chinese/issues" rel="ugc noopener nofollow" target="_blank">投稿</a>。</p>
+
+<p><a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank"><img src="https://gh-card.dev/repos/bestxtools/awesome-toolbox-chinese.svg?fullname=" title="" alt="bestxtools/awesome-toolbox-chinese - GitHub"></a></p>
+
+<p>链接:</p>
+
+<ul><li><a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">https://github.com/bestxtools/awesome-toolbox-chinese</a></li>
+<li><a href="https://xn--s28he6d.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">https://😎🧰.bestxtools.com/</a></li></ul>
+
+<hr>
+
+<h2>🌈 文章 &amp; 资源分享</h2>
+
+<ul><li><p><a href="https://afridigest.com/super-apps-in-emerging-markets/" rel="ugc noopener nofollow" target="_blank">Super Apps are Proliferating Across Emerging Markets</a> (<a href="https://news.ycombinator.com/item?id=32877435" rel="ugc noopener nofollow" target="_blank">Hacker News</a>)</p></li>
+
+<li><p><a href="https://httptoolkit.tech/blog/cache-your-cors/" rel="ugc noopener nofollow" target="_blank">Cache your CORS, for performance &amp; profit</a></p></li>
+
+<li><p><a href="https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41" rel="ugc noopener nofollow" target="_blank">58 bytes of CSS to look great nearly everywhere</a> (<a href="https://news.ycombinator.com/item?id=32972004" rel="ugc noopener nofollow" target="_blank">Hacker News</a>)</p></li>
+
+<li><p><a href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/" rel="ugc noopener nofollow" target="_blank">Why your website should be under 14kB in size</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch</a></p></li></ul>
+
+<hr>
+
+<h2>🌈 工具推荐</h2>
+
+<p>如果你有什么好玩的工具，可以是你做的或知道的，欢迎推荐。</p>
+
+<p>要求：</p>
+
+<ul><li>在线工具</li>
+<li>免费</li>
+<li>无需注册</li></ul>
+
+<p>推荐方式：</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">BestXTools</a></li>
+<li><a href="https://github.com/bestxtools/weekly-cn/issues" rel="ugc noopener nofollow" target="_blank">GitHub</a></li>
+<li><a href="https://links.bestxtools.com/www.v2ex.com/t/836201?r=BestXTools" rel="ugc noopener nofollow" target="_blank">V2EX</a></li></ul>
+
+<hr>
+
+<p>以上，便是本期全部内容。本期最喜欢的工具是哪一个，请在<a href="https://discuss-cn.bestxtools.com/d/81/3" rel="ugc noopener" target="_self">评论区留言</a>。感谢你阅读到这里，下期见！</p>
+
+<p>好工具周刊同时发布到三个平台，订阅方式提供多种选择。</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">BestXTools 社区</a> (<a href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="ugc noopener" target="_self">RSS</a>)</li>
+<li><a href="https://github.com/bestxtools/weekly-cn" rel="ugc noopener nofollow" target="_blank">GitHub（Watch）</a></li>
+<li><a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">竹白（邮箱，微信）</a></li></ul>
+
+<p>欢迎交流，投稿，订阅。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/80" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/t/tools" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/81/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+]]></content>
+        <author>
+            <name>bestxtools</name>
+        </author>
+    </entry>
+        <entry>
+        <title><![CDATA[好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Picas, Radix Icons, ...]]></title>
+        <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/80/1"/>
+        <id>https://discuss-cn.bestxtools.com/d/80/1</id>
+        <updated>2022-09-22T08:07:10+00:00</updated>
+        <content
+                    type="html"
+        ><![CDATA[<h1>好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons</h1>
+
+<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 <a href="https://www.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">BestXTools</a> 创作。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/78" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/t/tools" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/80/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+
+<h2>🌈 在线工具</h2>
+
+<h3><a href="https://links.bestxtools.com/devhints.io/" rel="ugc noopener nofollow" target="_blank">Devhints — TL;DR for developer documentation</a></h3>
+
+<p>一个开源的开发者工具和语言的 cheatsheets 查阅网站。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/devhints.io/" rel="ugc noopener nofollow" target="_blank">https://devhints.io/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/rstacruz/cheatsheets" rel="ugc noopener nofollow" target="_blank">https://github.com/rstacruz/cheatsheets</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-04.png" title="" alt="Devhints — TL;DR for developer documentation"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-01.png" title="" alt="Devhints — TL;DR for developer documentation"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-02.png" title="" alt="Devhints — TL;DR for developer documentation"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-22-03.png" title="" alt="Devhints — TL;DR for developer documentation"></p>
+
+<p>类似工具:</p>
+
+<ul><li><a href="https://links.bestxtools.com/quickref.me/" rel="ugc noopener nofollow" target="_blank">QuickRef.ME - https://quickref.me/</a> (<a href="https://discuss-cn.bestxtools.com/d/65" rel="ugc noopener" target="_self">第 25 期</a>)</li></ul>
+
+<h3><a href="https://links.bestxtools.com/explainshell.com/" rel="ugc noopener nofollow" target="_blank">explainshell.com - match command-line arguments to their help text</a></h3>
+
+<p>一个开源的开发者工具，输入一段命令行，它会将每个参数与手册页中的相关帮助文本匹配起来解释给你。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/explainshell.com/" rel="ugc noopener nofollow" target="_blank">https://explainshell.com/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/idank/explainshell" rel="ugc noopener nofollow" target="_blank">https://github.com/idank/explainshell</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-01.png" title="" alt="explainshell.com - match command-line arguments to their help text"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-02.png" title="" alt="explainshell.com - match command-line arguments to their help text"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-04.png" title="" alt="explainshell.com - match command-line arguments to their help text"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-44-03.png" title="" alt="explainshell.com - match command-line arguments to their help text"></p>
+
+<h3><a href="https://links.bestxtools.com/comm1t.yuy1n.io/" rel="ugc noopener nofollow" target="_blank">Comm1t - Find Repo's First Commit</a></h3>
+
+<p>一款快速找到第一次提交记录的工具，仓库有几千、几万次的提交时，很有用。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/comm1t.yuy1n.io/" rel="ugc noopener nofollow" target="_blank">https://comm1t.yuy1n.io/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/yuyinws/comm1t" rel="ugc noopener nofollow" target="_blank">https://github.com/yuyinws/comm1t</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-11-01.png" title="" alt="Comm1t - Find Repo's First Commit"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-11-02.png" title="" alt="Comm1t - Find Repo's First Commit"></p>
+
+<h3><a href="https://links.bestxtools.com/aidn.jp/ugomoji/" rel="ugc noopener nofollow" target="_blank">Ugomoji | うごもじ</a></h3>
+
+<p>在线文字转 gif 工具，文字、背景颜色可调，8 种动画效果。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/aidn.jp/ugomoji/" rel="ugc noopener nofollow" target="_blank">https://aidn.jp/ugomoji/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-01.png" title="" alt="Ugomoji | うごもじ"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-02.gif" title="" alt="Ugomoji | うごもじ"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-03.gif" title="" alt="Ugomoji | うごもじ"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-56-04.gif" title="" alt="Ugomoji | うごもじ"></p>
+
+<h3><a href="https://links.bestxtools.com/icon-z.com/" rel="ugc noopener nofollow" target="_blank">Face Icon Generator Z - 顔アイコンジェネレーター Z</a></h3>
+
+<p>一款非常有趣的头像制作工具，可定制性很高，支持保存制作的头像，重新导入编辑。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/icon-z.com/" rel="ugc noopener nofollow" target="_blank">https://icon-z.com/</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-01.png" title="" alt="Face Icon Generator Z"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-02.png" title="" alt="Face Icon Generator Z"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-03.png" title="" alt="Face Icon Generator Z"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-09-40-04.png" title="" alt="Face Icon Generator Z"></p>
+
+<h3><a href="https://links.bestxtools.com/picas.vercel.app/" rel="ugc noopener nofollow" target="_blank">Picas - Generate Project Logo with Google Fonts</a></h3>
+
+<p>一款使用 Google 字体生成 logo 的免费开源工具。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/picas.vercel.app/" rel="ugc noopener nofollow" target="_blank">https://picas.vercel.app/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/djyde/Picas" rel="ugc noopener nofollow" target="_blank">https://github.com/djyde/Picas</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-00-01.png" title="" alt="Picas - Generate Project Logo with Google Fonts"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-10-00-02.png" title="" alt="Picas - Generate Project Logo with Google Fonts"></p>
+
+<h3><a href="https://links.bestxtools.com/icons.radix-ui.com/" rel="ugc noopener nofollow" target="_blank">Radix Icons</a></h3>
+
+<p>免费开源的图标库，风格简洁、优雅，非常漂亮。可以下载 SVG 文件，也可以在 React 中直接使用。</p>
+
+<p>链接: <a href="https://links.bestxtools.com/icons.radix-ui.com/" rel="ugc noopener nofollow" target="_blank">https://icons.radix-ui.com/</a></p>
+
+<p>源码: <a href="https://links.bestxtools.com/github.com/radix-ui/icons" rel="ugc noopener nofollow" target="_blank">https://github.com/radix-ui/icons</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-28-01.png" title="" alt="Radix Icons"><br>
+<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-09-22-14-28-02.png" title="" alt="Radix Icons"></p>
+
+<hr>
+
+<h2>🧰 <a href="https://awesome-toolbox-chinese.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">在线工具箱大全</a></h2>
+
+<p>聚合了非常多的国内外优秀的在线工具箱，欢迎<a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">点赞</a>，收藏，<a href="https://github.com/bestxtools/awesome-toolbox-chinese/issues" rel="ugc noopener nofollow" target="_blank">投稿</a>。</p>
+
+<p>链接:</p>
+
+<ul><li><a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">https://github.com/bestxtools/awesome-toolbox-chinese</a></li>
+<li><a href="https://xn--s28he6d.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">https://😎🧰.bestxtools.com/</a></li></ul>
+
+<hr>
+
+<h2>🌈 文章 &amp; 资源分享</h2>
+
+<ul><li><p><a href="https://links.bestxtools.com/ebookfoundation.github.io/free-programming-books-search/" rel="ugc noopener nofollow" target="_blank">free-programming-books | Freely available programming books</a> (<a href="https://links.bestxtools.com/github.com/EbookFoundation/free-programming-books" rel="ugc noopener nofollow" target="_blank">GitHub</a>)</p></li>
+
+<li><p><a href="https://links.bestxtools.com/lym.readthedocs.io/en/latest/" rel="ugc noopener nofollow" target="_blank">LYM - Linux command line for you and me</a> (<a href="https://links.bestxtools.com/github.com/kushaldas/lym" rel="ugc noopener nofollow" target="_blank">GitHub</a>)</p></li>
+
+<li><p><a href="https://links.bestxtools.com/news.ycombinator.com/item?id=32793534" rel="ugc noopener nofollow" target="_blank">Ask HN: What's the best source code you've read?</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/" rel="ugc noopener nofollow" target="_blank">做了 6 年程序员，我学到的 10 条经验</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/ahrefs.com/blog/international-seo/" rel="ugc noopener nofollow" target="_blank">How to Implement an International SEO Strategy (Step-by-Step Guide)</a></p></li>
+
+<li><p><a href="https://links.bestxtools.com/www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？</a></p></li></ul>
+
+<hr>
+
+<h2>🌈 工具推荐</h2>
+
+<p>如果你有什么好玩的工具，可以是你做的或知道的，欢迎推荐。</p>
+
+<p>要求：</p>
+
+<ul><li>在线工具</li>
+<li>免费</li>
+<li>无需注册</li></ul>
+
+<p>推荐方式：</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">BestXTools</a></li>
+<li><a href="https://github.com/bestxtools/weekly-cn/issues" rel="ugc noopener nofollow" target="_blank">GitHub</a></li>
+<li><a href="https://links.bestxtools.com/www.v2ex.com/t/836201?r=BestXTools" rel="ugc noopener nofollow" target="_blank">V2EX</a></li></ul>
+
+<hr>
+
+<p>以上，便是本期全部内容。本期最喜欢的工具是哪一个，请在<a href="https://discuss-cn.bestxtools.com/d/80/3" rel="ugc noopener" target="_self">评论区留言</a>。感谢你阅读到这里，下期见！</p>
+
+<p>好工具周刊同时发布到三个平台，订阅方式提供多种选择。</p>
+
+<ul><li><a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">BestXTools 社区</a> (<a href="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" rel="ugc noopener" target="_self">RSS</a>)</li>
+<li><a href="https://github.com/bestxtools/weekly-cn" rel="ugc noopener nofollow" target="_blank">GitHub（Watch）</a></li>
+<li><a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">竹白（邮箱，微信）</a></li></ul>
+
+<p>欢迎交流，投稿，订阅。</p>
+
+<hr>
+
+<p><a href="https://discuss-cn.bestxtools.com/d/78" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/?subscribe=1" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/t/tools" rel="ugc noopener" target="_self">工具推荐</a> | <a href="https://discuss-cn.bestxtools.com/d/80/3" rel="ugc noopener" target="_self">评论</a></p>
+
+<hr>
+]]></content>
+        <author>
+            <name>bestxtools</name>
+        </author>
+    </entry>
         <entry>
         <title><![CDATA[好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, ...]]></title>
         <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/78/1"/>
@@ -5119,337 +5558,6 @@ app.listen(8080);</code><script async="" crossorigin="anonymous" data-hljs-style
 <hr>
 
 <p><a href="https://discuss-cn.bestxtools.com/d/11" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/13" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a></p>
-
-<hr>
-]]></content>
-        <author>
-            <name>bestxtools</name>
-        </author>
-    </entry>
-        <entry>
-        <title><![CDATA[好工具周刊（第 3 期）：优秀工具箱 🧰 集合, Poet.so, 艺术二维码生成器]]></title>
-        <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/11/1"/>
-        <id>https://discuss-cn.bestxtools.com/d/11/1</id>
-        <updated>2022-03-10T00:59:06+00:00</updated>
-        <content
-                    type="html"
-        ><![CDATA[<h1>好工具周刊（第 3 期）：优秀工具箱 🧰 集合, Poet.so, 艺术二维码生成器</h1>
-
-<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 <a href="https://www.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">BestXTools</a> 创作。</p>
-
-<hr>
-
-<p><a href="https://discuss-cn.bestxtools.com/d/9" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/12" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a></p>
-
-<hr>
-
-<h2>优秀工具箱 🧰 集合</h2>
-
-<p>有很多程序员都喜欢做一个工具箱。这里收集了一些好用的工具箱。</p>
-
-<p>链接: <a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">https://github.com/bestxtools/awesome-toolbox-chinese</a></p>
-
-<p>欢迎<a href="https://github.com/bestxtools/awesome-toolbox-chinese" rel="ugc noopener nofollow" target="_blank">点赞</a>，收藏，<a href="https://github.com/bestxtools/awesome-toolbox-chinese/issues" rel="ugc noopener nofollow" target="_blank">推荐</a>。</p>
-
-<h2>在线工具</h2>
-
-<h3><a href="https://poet.so/" rel="ugc noopener nofollow" target="_blank">Poet.so</a></h3>
-
-<p>将 Twitter 推文转成漂亮的图片的工具。</p>
-
-<p>链接: <a href="https://poet.so/" rel="ugc noopener nofollow" target="_blank">https://poet.so/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-22-11-05-27.png" title="" alt="Poet.so"></p>
-
-<h3><a href="https://qrbtf.com/" rel="ugc noopener nofollow" target="_blank">艺术二维码生成器 / 参数化二维码生成器</a></h3>
-
-<p>免费开源的二维码美化工具。</p>
-
-<p>链接: <a href="https://qrbtf.com/" rel="ugc noopener nofollow" target="_blank">https://qrbtf.com/</a></p>
-
-<p>备用链接: <a href="http://tool.mkblog.cn/qrbtf/" rel="ugc noopener nofollow" target="_blank">http://tool.mkblog.cn/qrbtf/</a></p>
-
-<p>源码: <a href="https://github.com/ciaochaos/qrbtf" rel="ugc noopener nofollow" target="_blank">https://github.com/ciaochaos/qrbtf</a> <a href="https://github.com/ciaochaos/qrbtf" rel="ugc noopener nofollow" target="_blank"><img src="https://img.shields.io/github/stars/ciaochaos/qrbtf.svg?style=social&amp;label=Star" title="" alt="GitHub stars"></a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-09-15-59-59.png" title="" alt="艺术二维码生成器 / 参数化二维码生成器"><br>
-<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-09-16-00-45.png" title="" alt="艺术二维码生成器 / 参数化二维码生成器"></p>
-
-<h3><a href="https://multiavatar.com/" rel="ugc noopener nofollow" target="_blank">Multiavatar</a></h3>
-
-<p>免费的头像生成工具，可产生 120 亿个独特的头像化身。可以免费使用任何生成的头像作为你的头像图片，游戏标志，作为你设计项目的一部分等等。</p>
-
-<p>链接: <a href="https://multiavatar.com/" rel="ugc noopener nofollow" target="_blank">https://multiavatar.com/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/pika-2022-02-22T02_22_34.875Z.png" title="" alt="Multiavatar"><br>
-<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/pika-2022-02-22T02_30_11.202Z.png" title="" alt="Multiavatar"></p>
-
-<h3><a href="https://mathsolver.microsoft.com/" rel="ugc noopener nofollow" target="_blank">微软数学求解器（Microsoft Math Solver）</a></h3>
-
-<p>微软推出的在线数学求解器。有网页版，iOS、安卓端应用。</p>
-
-<p>链接: <a href="https://mathsolver.microsoft.com/" rel="ugc noopener nofollow" target="_blank">https://mathsolver.microsoft.com/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-11-16-22.png" title="" alt="Microsoft Math Solver"></p>
-
-<h3><a href="https://tikolu.net/emojimix" rel="ugc noopener nofollow" target="_blank">emojimix</a></h3>
-
-<p>将两个不同的 Emoji 符号组合成一个新的符号。</p>
-
-<p><a href="https://discuss-cn.bestxtools.com/d/9" rel="ugc noopener" target="_self">第 2 期</a>里推荐的工具【<a href="https://tikolu.net/i/" rel="ugc noopener nofollow" target="_blank">图床 i</a> 】的作者 <a href="https://tikolu.net/" rel="ugc noopener nofollow" target="_blank">Tikolu</a> 的作品。</p>
-
-<p>链接: <a href="https://tikolu.net/emojimix" rel="ugc noopener nofollow" target="_blank">https://tikolu.net/emojimix</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-15-22-55.png" title="" alt="emojimix"></p>
-
-<h3><a href="https://sqliteviewer.app/" rel="ugc noopener nofollow" target="_blank">SQLite Viewer Web App</a></h3>
-
-<p>一个可以在浏览器里使用的 SQLite 数据库浏览工具。<br>
-使用了浏览器的原生文件系统 API 来打开 .sqlite 文件。<br>
-也可以作为 PWA 安装。</p>
-
-<p>链接: <a href="https://sqliteviewer.app/" rel="ugc noopener nofollow" target="_blank">https://sqliteviewer.app/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-10-15-26.png" title="" alt="SQLite Viewer Web App"></p>
-
-<h3><a href="https://www.deviceinfo.me/" rel="ugc noopener nofollow" target="_blank">Device Info</a></h3>
-
-<p>一个网页工具，显示从浏览器可以收集的所有关于用户设备的信息，比如电池、麦克风、蓝牙等。</p>
-
-<p>链接: <a href="https://www.deviceinfo.me/" rel="ugc noopener nofollow" target="_blank">https://www.deviceinfo.me/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-10-41-08.png" title="" alt="Device Info"></p>
-
-<h2>文章</h2>
-
-<ul><li><a href="https://www.indiehackers.com/post/i-ve-made-over-2-000-000-designing-websites-here-are-my-top-5-tips-2dd32fd3f6" rel="ugc noopener nofollow" target="_blank">I’ve made over $2,000,000 designing websites - here are my top 5 tips</a></li></ul>
-
-<p>Tips:</p>
-
-<ol style="list-style-type:decimal"><li>Use just 3 colours</li>
-<li>Use just one font</li>
-<li>Make everything modular</li>
-<li>Use high-quality images</li>
-<li>Use your main colour in your imagery</li></ol>
-
-<p><a href="https://www.indiehackers.com/post/i-ve-made-over-2-000-000-designing-websites-here-are-my-top-5-tips-2dd32fd3f6" rel="ugc noopener nofollow" target="_blank"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/post-images/2dd32fd3f6/jkDKE50OD7QfExzqzzodmM3qDLx1/7bac97a3-c666-7e09-f694-a4708c0daa02.png" title="" alt=""></a></p>
-
-<ul><li><a href="https://2021.stateofjs.com/" rel="ugc noopener nofollow" target="_blank">The State of JS 2021</a></li></ul>
-
-<p><a href="https://2021.stateofjs.com/" rel="ugc noopener nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-10-08-19-09.png" title="" alt="The State of JS 2021"></a></p>
-
-<ul><li><a href="https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 197 期）：如果这个世界有快乐机</a></li></ul>
-
-<p><a href="https://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html" rel="ugc noopener nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-10-08-24-35.png" title="" alt="科技爱好者周刊（第 197 期）：如果这个世界有快乐机"></a></p>
-
-<ul><li><a href="https://www.producthunt.com/newsletter/10093-rip-amazon-stores" rel="ugc noopener nofollow" target="_blank">Product Hunt Weekly Digest - March 6th, 2022</a>
-  <ul><li>本周第一：<a href="https://www.producthunt.com/posts/help-ukraine-crowdsourced-list" rel="ugc noopener nofollow" target="_blank">Help Ukraine | Crowdsourced List</a></li></ul></li></ul>
-
-<p><a href="https://www.producthunt.com/newsletter/10093-rip-amazon-stores" rel="ugc noopener nofollow" target="_blank"><img src="https://ph-files.imgix.net/690972e9-5d9d-4c51-9d80-66179431af4e.jpeg?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=676&amp;h=380&amp;fit=max&amp;bg=0fff&amp;dpr=2" title="" alt="Help Ukraine | Crowdsourced List"></a></p>
-
-<h2>周刊推荐</h2>
-
-<p><a href="https://discuss-cn.bestxtools.com/d/9" rel="ugc noopener" target="_self">上期</a>开始，每期推荐 1，2 个周刊或 newsletter。如果你知道哪些不错的周刊，请推荐给我。</p>
-
-<h3><a href="https://github.com/ascoders/weekly" rel="ugc noopener nofollow" target="_blank">前端精读周刊</a></h3>
-
-<p>前端界的好文精读，每周更新！</p>
-
-<ul><li>链接: <a href="https://github.com/ascoders/weekly" rel="ugc noopener nofollow" target="_blank">https://github.com/ascoders/weekly</a></li></ul>
-
-<h4>近期文章</h4>
-
-<ul><li><a href="https://github.com/ascoders/weekly/blob/master/SQL/232.SQL%20%E8%81%9A%E5%90%88%E6%9F%A5%E8%AF%A2.md" rel="ugc noopener nofollow" target="_blank">232.SQL 聚合查询</a></li>
-<li><a href="https://github.com/ascoders/weekly/blob/master/SQL/231.SQL%20%E5%85%A5%E9%97%A8.md" rel="ugc noopener nofollow" target="_blank">231.SQL 入门</a></li>
-<li><a href="https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/230.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%AF%B9%20Markdown%20%E7%9A%84%E6%80%9D%E8%80%83%E3%80%8B.md" rel="ugc noopener nofollow" target="_blank">230.精读《对 Markdown 的思考》</a></li></ul>
-
-<h3><a href="https://decohack.zhubai.love/" rel="ugc noopener nofollow" target="_blank">DecoHack 周刊</a></h3>
-
-<p>为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。  <br>
-内容包含：新闻洞察、行业分析、文章推荐、工具分享、下饭视频。  <br>
-内容涉及：产品运营、市场分析、软件设计、技术开发、生活方式  <br>
-每周更新</p>
-
-<ul><li>链接: <a href="https://decohack.zhubai.love/" rel="ugc noopener nofollow" target="_blank">https://decohack.zhubai.love/</a></li></ul>
-
-<h4>近期文章</h4>
-
-<ul><li><a href="https://decohack.zhubai.love/posts/2112496802266894336" rel="ugc noopener nofollow" target="_blank">DecoHack 周刊 #004</a></li>
-<li><a href="https://decohack.zhubai.love/posts/2109958753502867456" rel="ugc noopener nofollow" target="_blank">DecoHack 周刊 #003</a></li>
-<li><a href="https://decohack.zhubai.love/posts/2107359262203703296" rel="ugc noopener nofollow" target="_blank">DecoHack 周刊 #002</a></li></ul>
-
-<hr>
-
-<p>以上，便是本期全部内容。感谢你阅读到这里，下期见！</p>
-
-<p>好工具周刊同时发布到三个平台，订阅方式提供多种选择。</p>
-
-<ul><li><a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">BestXTools 社区（RSS）</a></li>
-<li><a href="https://github.com/bestxtools/weekly-cn" rel="ugc noopener nofollow" target="_blank">GitHub（Watch）</a></li>
-<li><a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">竹白（邮箱，微信）</a></li></ul>
-
-<p>欢迎交流，投稿，订阅。</p>
-
-<hr>
-
-<p><a href="https://discuss-cn.bestxtools.com/d/9" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/12" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a></p>
-
-<hr>
-
-]]></content>
-        <author>
-            <name>bestxtools</name>
-        </author>
-    </entry>
-        <entry>
-        <title><![CDATA[好工具周刊（第 2 期）：Checkbox Painter, JSONT, 图床 i by Tikolu]]></title>
-        <link rel="alternate" type="text/html" href="https://discuss-cn.bestxtools.com/d/9/1"/>
-        <id>https://discuss-cn.bestxtools.com/d/9/1</id>
-        <updated>2022-03-03T00:30:05+00:00</updated>
-        <content
-                    type="html"
-        ><![CDATA[<h1>好工具周刊（第 2 期）：Checkbox Painter, JSONT, 图床 i by Tikolu</h1>
-
-<p>发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 <a href="https://www.bestxtools.com/" rel="ugc noopener nofollow" target="_blank">BestXTools</a> 创作。</p>
-
-<hr>
-
-<p><a href="https://discuss-cn.bestxtools.com/d/6" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/11" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a></p>
-
-<hr>
-
-<h2>在线工具</h2>
-
-<h3><a href="https://mrdoob.com/lab/javascript/checkbox_painter/" rel="ugc noopener nofollow" target="_blank">Checkbox Painter</a></h3>
-
-<p>一款使用 checkbox 作画的工具。分享 URL 给别人，可以让别人看到你的作品。(<a href="https://v2ex.com/t/836201#r_11401037" rel="ugc noopener nofollow" target="_blank">@mark2014</a> 投稿)</p>
-
-<p>链接: <a href="https://mrdoob.com/lab/javascript/checkbox_painter/" rel="ugc noopener nofollow" target="_blank">https://mrdoob.com/lab/javascript/checkbox_painter/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-28-17-14-07.png" title="" alt="Checkbox Painter"></p>
-
-<h3><a href="https://www.jsont.run/" rel="ugc noopener nofollow" target="_blank">JSON 格式化验证和编辑工具 - JSONT</a></h3>
-
-<p>一个简洁的在线 JSON 解析器，支持 JSON 解析/美化/压缩/验证/编辑功能。(<a href="https://v2ex.com/t/836201#r_11401208" rel="ugc noopener nofollow" target="_blank">@awesomes</a> 投稿)</p>
-
-<p>链接: <a href="https://www.jsont.run/" rel="ugc noopener nofollow" target="_blank">https://www.jsont.run/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-10-34-27.png" title="" alt="JSON格式化验证和编辑 - JSONT"></p>
-
-<h3><a href="https://devtool.tech/base64" rel="ugc noopener nofollow" target="_blank">Base64 Encoding/Decoding 及编码过程实时解析工具</a></h3>
-
-<p>Base64 编码及解码工具，但与以往工具不同的是，这个工具可视化展示了字符串从 unicode 到 uint8 再到 base64 的全过程，能够让你更加了解 Base64 的原理。(<a href="https://discuss-cn.bestxtools.com/d/8/2" rel="ugc noopener" target="_self">@Blacktee</a> 投稿)</p>
-
-<p>链接: <a href="https://devtool.tech/base64" rel="ugc noopener nofollow" target="_blank">https://devtool.tech/base64</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-10-35-19.png" title="" alt="Base64 Encoding/Decoding 及编码过程实时解析工具"></p>
-
-<h3><a href="https://dns-lookup.jvns.ca/" rel="ugc noopener nofollow" target="_blank">DNS lookups</a></h3>
-
-<p>可以在线查询 DNS 的小工具。</p>
-
-<p>链接: <a href="https://dns-lookup.jvns.ca/" rel="ugc noopener nofollow" target="_blank">https://dns-lookup.jvns.ca/</a></p>
-
-<p>源码: <a href="https://github.com/jvns/dns-lookup" rel="ugc noopener nofollow" target="_blank">https://github.com/jvns/dns-lookup</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-11-02-23.png" title="" alt="DNS lookups"></p>
-
-<p>类似工具:</p>
-
-<ul><li><a href="https://toolbox.googleapps.com/apps/dig/" rel="ugc noopener nofollow" target="_blank">https://toolbox.googleapps.com/apps/dig/</a></li>
-<li><a href="https://dns.google/" rel="ugc noopener nofollow" target="_blank">https://dns.google/</a></li></ul>
-
-<h3><a href="https://tikolu.net/i/" rel="ugc noopener nofollow" target="_blank">图床 i by Tikolu</a></h3>
-
-<p>完全免费，匿名，极简，使用方便的图床工具，并且没有广告。</p>
-
-<p>链接: <a href="https://tikolu.net/i/" rel="ugc noopener nofollow" target="_blank">https://tikolu.net/i/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-02-21-15-23-31.png" title="" alt="图床 i"></p>
-
-<h3><a href="https://tinypng.com/" rel="ugc noopener nofollow" target="_blank">TinyPNG</a></h3>
-
-<p>免费的图片压缩工具。支持同时上传下载多张图片。</p>
-
-<p>链接: <a href="https://tinypng.com/" rel="ugc noopener nofollow" target="_blank">https://tinypng.com/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-10-21-38.png" title="" alt="TinyPNG"></p>
-
-<h3><a href="https://promo.com/tools/image-resizer/" rel="ugc noopener nofollow" target="_blank">图片大小调整工具</a></h3>
-
-<p>一个调整图片大小的工具。提供适配 Facebook, Twitter, Instagram, Youtube 等社交平台的多种大小模板。</p>
-
-<p>链接: <a href="https://promo.com/tools/image-resizer/" rel="ugc noopener nofollow" target="_blank">https://promo.com/tools/image-resizer/</a></p>
-
-<p><img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-17-41-22.png" title="" alt="图片大小调整工具"><br>
-<img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-01-17-40-51.png" title="" alt="图片大小调整工具"></p>
-
-<h2>文章</h2>
-
-<ul><li><p><a href="https://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 196 期）：掌机的未来</a><br>
-  <img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/bg2022022010.webp" title="" alt="科技爱好者周刊（第 196 期）：掌机的未来"></p></li>
-<li><p><a href="https://sive.rs/plaintext" rel="ugc noopener nofollow" target="_blank">使用纯文本格式写作 / Write Plain Text Files</a></p>
-
-  <p>作者热爱写作，热爱纯文本格式的写作。文中说明了理由与好处。</p></li></ul>
-
-<blockquote class="uncited"><div><p><strong>Every device, including ones long gone, and ones not invented yet, can read and edit plain text.</strong> Whether future virtual reality, or a chip you can implant in your earlobe, plain text will be there. Will Microsoft Word? Evernote? Notion? Maybe. Maybe not.</p>
-
-<p>But plain text? Always. Everywhere.</p></div></blockquote>
-
-<ul><li><a href="https://www.producthunt.com/newsletter/10060-help-ukraine" rel="ugc noopener nofollow" target="_blank">Product Hunt Weekly Digest - February 27th, 2022</a>
-  <ul><li>本周第一：<a href="https://www.producthunt.com/posts/help-ukraine-win" rel="ugc noopener nofollow" target="_blank">帮助乌克兰 🇺🇦 胜利</a><br>
-    <img src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/d39ff981-c874-400d-a903-45674c6a5a1e.jpeg" title="" alt="帮助乌克兰 🇺🇦 胜利"></li></ul></li></ul>
-
-<h2>周刊推荐</h2>
-
-<p>本期开始，打算每期推荐 1，2 个周刊或 newsletter。如果你知道哪些不错的周刊，请推荐给我。</p>
-
-<p>作为第一个，推荐大部分程序员都熟悉的，阮一峰的科技爱好者周刊。</p>
-
-<h3><a href="https://www.ruanyifeng.com/blog/weekly/" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊 - 阮一峰的网络日志</a></h3>
-
-<p>记录每周值得分享的科技内容，周五发布。</p>
-
-<ul><li>链接 1: <a href="https://www.ruanyifeng.com/blog/weekly/" rel="ugc noopener nofollow" target="_blank">https://www.ruanyifeng.com/blog/weekly/</a></li>
-<li>链接 2: <a href="https://github.com/ruanyf/weekly" rel="ugc noopener nofollow" target="_blank">https://github.com/ruanyf/weekly</a></li>
-<li>RSS 地址 1: <a href="http://feeds.feedburner.com/ruanyifeng" rel="ugc noopener nofollow" target="_blank">http://feeds.feedburner.com/ruanyifeng</a></li>
-<li>RSS 地址 1: <a href="http://www.ruanyifeng.com/blog/atom.xml" rel="ugc noopener nofollow" target="_blank">http://www.ruanyifeng.com/blog/atom.xml</a></li>
-<li>投稿: <a href="https://github.com/ruanyf/weekly" rel="ugc noopener nofollow" target="_blank">https://github.com/ruanyf/weekly</a></li></ul>
-
-<h4>近期文章</h4>
-
-<ul><li><a href="https://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 196 期）：掌机的未来</a></li>
-<li><a href="https://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？</a></li>
-<li><a href="https://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html" rel="ugc noopener nofollow" target="_blank">科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功</a></li></ul>
-
-<h3><a href="https://geekplux.zhubai.love/" rel="ugc noopener nofollow" target="_blank">GeekPlux Lab</a></h3>
-
-<p>技术、金融、设计、区块链、跑步徒步，把有限的生命浪费在无限的浅尝辄止上，Always Exploring。随想随感，每周一更。</p>
-
-<ul><li>链接 1: <a href="https://geekplux.zhubai.love/" rel="ugc noopener nofollow" target="_blank">https://geekplux.zhubai.love/</a></li>
-<li>链接 2: <a href="https://geekplux.com/newsletters" rel="ugc noopener nofollow" target="_blank">https://geekplux.com/newsletters</a></li>
-<li>RSS 地址: <a href="https://geekplux.com/feed.xml" rel="ugc noopener nofollow" target="_blank">https://geekplux.com/feed.xml</a></li></ul>
-
-<h4>近期文章</h4>
-
-<ul><li><a href="https://geekplux.com/newsletters/9" rel="ugc noopener nofollow" target="_blank">数据商业经济 -#9</a></li>
-<li><a href="https://geekplux.com/newsletters/8" rel="ugc noopener nofollow" target="_blank">创作者经济-实例篇 -#8</a></li>
-<li><a href="https://geekplux.com/newsletters/7" rel="ugc noopener nofollow" target="_blank">创作者经济-概念篇 -#7</a></li></ul>
-
-<hr>
-
-<p>以上，便是本期全部内容。感谢你阅读到这里，下期见！</p>
-
-<p>好工具周刊同时发布到三个平台，订阅方式提供多种选择。</p>
-
-<ul><li><a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">BestXTools 社区（RSS）</a></li>
-<li><a href="https://github.com/bestxtools/weekly-cn" rel="ugc noopener nofollow" target="_blank">GitHub（Watch）</a></li>
-<li><a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">竹白（邮箱，微信）</a></li></ul>
-
-<p>欢迎交流，投稿，订阅。</p>
-
-<hr>
-
-<p><a href="https://discuss-cn.bestxtools.com/d/6" rel="ugc noopener" target="_self">上一期内容</a> | <a href="https://discuss-cn.bestxtools.com/d/11" rel="ugc noopener" target="_self">下一期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">往期内容</a> | <a href="https://discuss-cn.bestxtools.com/t/weekly" rel="ugc noopener" target="_self">RSS 订阅</a> | <a href="https://bestxtools.zhubai.love/" rel="ugc noopener nofollow" target="_blank">邮箱订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/5/2" rel="ugc noopener" target="_self">微信订阅</a> | <a href="https://discuss-cn.bestxtools.com/d/8" rel="ugc noopener" target="_self">工具推荐</a></p>
 
 <hr>
 ]]></content>
