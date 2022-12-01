@@ -2,6 +2,9 @@
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
+\- [ `2022/12/01` ] [好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, Random User Generator, CSS Icons, Tylify, Palette](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-40.md)  
+\- [ `2022/11/24` ] [好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, FlipClocker, Paramoji, Fold 'N Fly](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-39.md)  
+\- [ `2022/11/17` ] [好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva Translate, Etymonline, 竹白专栏与文章检索, Upscale.media](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-38.md)  
 \- [ `2022/11/10` ] [好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, Website Metadata, 竹白专栏检索, 直播中国, Data Gif Maker](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-37.md)  
 \- [ `2022/11/03` ] [好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart Maker, icons.download, Stellarium](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-36.md)  
 \- [ `2022/10/27` ] [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso, Wormhole, Boring Avatars, 📙 Emojipedia](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-35.md)  
